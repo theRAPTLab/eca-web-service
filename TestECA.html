@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Test HTTPS POST Endpoint</title>
+</head>
+<body>
+    <form id="myForm">
+        <label for="utterance">Question:</label>
+        <textarea id="utterance" name="Utterance" rows="4" cols="50"></textarea><br><br>
+
+        <label for="ecatype">ECAType:</label>
+        <select id="ecatype" name="ECAType">
+            <option value="CI">CI</option>
+            <option value="GameHelp">GameHelp</option>
+            <option value="GameHelp_FoodJustice">GameHelp_FoodJustice</option>
+            <option value="GameHelp_Collaboration">GameHelp_Collaboration</option>
+            <option value="Knowledge_Pollination">Knowledge_Pollination</option>
+            <option value="Knowledge_FoodJustice">Knowledge_FoodJustice</option>
+            <option value="ConversationBumpers">ConversationBumpers</option>
+            <option value="GEMSTEP_Modeling">GEMSTEP_Modeling</option>
+        </select><br><br>
+        <label for="confidenceThreshold">Confidence Threshold:</label>
+        <input type="number" id="confidenceThreshold" name="ConfidenceThreshold" min="0" max="1" step="0.01" value="0.6"><br><br>
+    
+        <input type="submit" value="Submit">
+        <span id="loading" style="display:none;">Loading...</span>
+    </form>
+
+    <div id="responseDiv"></div>
+
+    <script>
+        document.addEventListener("DOMContentLoaded", () => {
+            const form = document.getElementById("myForm");
+            const loading = document.getElementById("loading");
+            form.addEventListener("submit", async (event) => {
+                event.preventDefault();
+                loading.style.display = "inline"; // Show loading text
+
+                const utterance = document.getElementById("utterance").value;
+                const ecatype = document.getElementById("ecatype").value;
+                const confidenceThreshold = parseFloat(document.getElementById("confidenceThreshold").value);
+        
+                const payload = {
+                    "Utterance": utterance,
+                    "ECAType": ecatype,
+                    "ConfidenceThreshold": confidenceThreshold
+                };
+
+                try {
+                    const myurl = "https://127.0.0.1:5000/GetECAResponse"
+                    // const myurl = "https://tracedata-01.csc.ncsu.edu:5000/GetECAResponse"
+                    const response = await fetch(myurl, {
+                        method: "POST",
+                        headers: {
+                            "Content-Type": "application/json"
+                        },
+                        body: JSON.stringify(payload)
+                    });
+                    
+                    const responseData = await response.text();
+                    document.getElementById("responseDiv").innerText = responseData;
+                } catch (error) {
+                    console.error("An error occurred:", error);
+                    document.getElementById("responseDiv").innerText = "An error occurred: " + error;
+                }finally {
+                   loading.style.display = "none"; // Hide loading text
+                }
+            });
+        });
+    </script>
+</body>
+</html>

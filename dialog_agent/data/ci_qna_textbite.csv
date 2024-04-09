@@ -1,0 +1,623 @@
+source,edit,sentence,labels,short answer
+Bacteria,1,Generate: What are bacteria?,"Bacteria are microorganisms, which perform many different functions in the world.",Bacteria
+Bacteria,1,Generate: What can bacteria produce?,Some bacteria are used in the production of cheeses and fermented meats.,bacteria
+Bacteria,1,Generate: Are bacteria used to make pharmaceutical products?,Some bacteria are used to make pharmaceutical products.,bacteria
+Bacteria,1,Generate: Are bacteria used to reduce pollution?,"Recently, bacteria have even been used to reduce pollution.",bacteria
+Bacteria,1,Generate: Are bacteria harmful?,Most bacteria are not harmful.,bacteria
+Bacteria,0,Generate: What are some bacteria that cause human diseases?,A few bacteria cause human diseases such as listeria and shigellosis.,listeria and shigellosis
+Bacteria,0,"Generate: What is a type of bacteria found in soil, water, and even some poultry and cattle?","Listeria is a type of bacteria found in soil, water, and even some poultry and cattle.",Listeria
+Bacteria,0,Generate: What type of space does Listeria grow in?,Listeria is unusual in that it is able to grow in cold spaces like the refrigerator.,cold
+Bacteria,0,"Generate: The elderly, pregnant women and chronically ill are most susceptible to serious illness from what?","The elderly, pregnant women, and the chronically ill are most susceptible to serious illness from listeria.",listeria
+Bacteria,0,Generate: What is shigellosis?,Shigella cause intestinal infections called shigellosis.,intestinal infections
+Bacteria,0,Generate: What bacteria are spread from person to person?,Shigella bacteria are spread from person to person.,Shigella bacteria
+Bacteria,0,Generate: What is the most common shigella symptom?,"The most common symptom of shigella is diarrhea, and the best treatment is to rest and drink plenty of fluids.",diarrhea
+Bacteria,0,Generate: What is a group of drugs that combat bacterial infections called?,Scientists have developed a group of drugs that combat bacterial infections called antibiotics.,antibiotics
+Bacteria,0,Generate: What type of infections can antibiotics be prescribed for?,Antibiotics can be prescribed for listeria infections.,listeria infections
+Bacteria,0,Generate: In mild cases of what type of disease can antibiotics not be used?,Antibiotics may not be used in mild cases of shigellosis due to the possibility of the bacteria building a resistance.,shigellosis
+Viral-Gastroenteritis,1,Generate: What is the most common cause of Viral Gastroenteritis?,"Norovirus is the most common cause of Viral Gastroenteritis, the largest contributor of foodborne-disease outbreaks in the United States.",Norovirus
+Viral-Gastroenteritis,1,Generate: How can you get Norovirus?,"You can get Norovirus from an infected person, contaminated food or water, or by touching contaminated surfaces.",contaminated food or water
+Viral-Gastroenteritis,1,Generate: Who can be infected with Norovirus?,Anyone can be infected with Norovirus and get sick.,Norovirus
+Viral-Gastroenteritis,1,Generate: How many times can you have Viral Gastroenteritis in your life?,You can have Viral Gastroenteritis many times in your life.,Viral Gastroenteritis
+Viral-Gastroenteritis,1,Generate: What does Viral Gastroenterities cause?,Viral Gastroenterities causes your stomach or intestines or both to get inflamed.,Viral Gastroenterities
+Viral-Gastroenteritis,1,Generate: What is the common symptoms of Viral Gatroenteritis?,"Common symptoms of Viral Gatroenteritis include stomach pain, nausea, diarrhea, and vomiting.",Viral Gatroenteritis
+Viral-Gastroenteritis,0,Generate: What can the symptoms of Viral Gastrointeritis cause?,"The symptoms of Viral Gastrointeritis can lead to dehydration, especially in young children, older adults, and people with other illnesses.",dehydration
+Viral-Gastroenteritis,0,Generate: How many days do people with Viral Gastroenteritis get better?,Most people with Viral Gastroenteritis get better within 1 to 3 days.,1 to 3 days
+Viral-Gastroenteritis,1,Generate: How can we prevent Viral Gastroenteritis?,"Prevention of Viral Gastroenteritis includes washing your hands carefully with soap and water, especially after using the toilet and changing diapers.",soap and water
+Viral-Gastroenteritis,1,"Generate: Before eating, preparing, or handling food, what is important to do?","It is important to wash your hands before eating, preparing, or handling food.",wash your hands
+Viral-Gastroenteritis,0,Generate: What can be found in your vomit or stool before you start feeling sick?,Noroviruses can be found in your vomit or stool even before you start feeling sick.,Noroviruses
+Viral-Gastroenteritis,0,Generate: How long can Norovirus stay in your stool?,"Norovirus can stay in your stool for 2 weeks or more after you feel better, so it is important to continue washing your hands often during this time.",2 weeks
+Viral-Gastroenteritis,1,Generate: What is the treatment for people with Viral Gastroenteritis?,There is no specific therapy to treat people with Viral Gastroenteritis caused by Norovirus infection.,Norovirus infection
+Viral-Gastroenteritis,0,Generate: What is the most common complication that may require medical care for Viral Gastroenteritis?,Dehydration is the most common complication that may require medical care for Viral Gastroenteritis.,Dehydration
+Viral-Gastroenteritis,1,Generate: What is the treatment for Viral Gastroenteritis?,Treatment for Viral Gastroenteritis includes replacing fluids lost from vomiting and diarrhea and correcting electrolyte disturbances.,electrolyte
+Viral-Gastroenteritis,0,Generate: What type of dehydration is the oral rehydration used for?,Oral rehydration with fluids and giving fluids intravenously are used for severe dehydration.,severe dehydration
+Viral-Gastroenteritis,1,Generate: What should we do if someone is severely dehydrated?,"If you think you or someone you are caring for is severely dehydrated, call the doctor.",severely dehydrated
+SizeComparisonPoster,0,Generate: What is much larger than a virus?,Bacteria is much larger than a virus.,Bacteria
+SizeComparisonPoster,1,Generate: What is the size of bactecria?,Bacteria is one thousand times the size of a virus.,one thousand times
+Anthrax,0,Generate: What is the cause of Anthrax?,Bacillus anthracis bacteria are the cause of the disease Anthrax.,Bacillus anthracis
+Anthrax,0,Generate: What bacteria lives as a spore in the soil?,"Bacillus anthracis bacteria lives as a spore in the soil, and it germinates and reproduces bacteria once inside an animal or human.",Bacillus anthracis
+Anthrax,0,Generate: What type of animal does anthrax affect?,"Anthrax typically affects livestock, but it can also affect humans.",livestock
+Anthrax,1,Generate: How many types of anthrax are there?,There are three different types of anthrax.,anthrax
+Anthrax,0,Generate: What is the most common form of anthrax?,"The most common form of anthrax is cutaneous anthrax, which affects the skin.",cutaneous anthrax
+Anthrax,0,Generate: Cutaneous anthrax occurs from direct contact with what?,Cutaneous anthrax occurs from direct contact with spores or bacteria.,spores or bacteria
+Anthrax,0,Generate: What is inhalation anthrax?,Inhalation anthrax occurs when the spores are inhaled and begin infection in the lungs.,spores
+Anthrax,1,Generate: What can humans get anthrax?,Humans may also get anthrax by eating meat contaminated by anthrax spores or bacteria.,anthrax
+Anthrax,0,Generate: What happens when humans eat meat contaminated by anthrax spores or bacteria?,Gastrointestinal anthrax occurs when humans eat meat contaminated by anthrax spores or bacteria.,anthrax
+Anthrax,1,Generate: Is there a vaccine available for anthrax?,"There is a vaccine available for anthrax, but it is not recommended for the general public.",anthrax
+Anthrax,1,Generate: How many doses of vaccine are required over an extended period of time?,Multiple doses of the anthrax vaccine are required over an extended period of time.,anthrax vaccine
+Anthrax,1,Generate: Who is the anthrax vaccine recommended for?,"Anthrax is not a common disease, and the anthrax vaccine is only recommended for people who are in the military or have a job that puts them in contact with livestock or slaughtered animals.",anthrax vaccine
+Anthrax,0,Generate: What organization supports research to develop new vaccines for anthrax?,"The National Institute of Allergy and Infectious Diseases currently supports research to develop new vaccines for anthrax, which may eventually be available to a wider population.",National Institute of Allergy and Infectious Diseases
+Anthrax,0,Generate: What can be used to diagnose anthrax?,Blood cultures or sputum cultures may be used to diagnose anthrax.,Blood cultures
+Anthrax,1,Generate: How do we treat people infected with anthrax?,People infected with anthrax are typically treated with a combination of antibiotics.,anthrax
+E-coli,0,Generate: What is the abbreviation for the bacteria called Escherichia coli?,E. coli is the abbreviation for the bacteria named Escherichia coli.,E. coli
+E-coli,0,Generate: What is one of the most studied bacteria in the world?,E. coli are among the most studied bacteria in the world.,E. coli
+E-coli,0,Generate: What type of organisms do E. coli bacteria normally live in?,E. coli bacteria normally live in the intestines of animals and humans.,intestines
+E-coli,1,Generate: Are E. coli bacteria harmful?,"Most of the strains, or types, of E. coli bacteria are harmless.",harmless
+E-coli,0,Generate: What type of organism is E. coli?,E. coli is actually a probiotic organism.,probiotic
+E-coli,0,Generate: What grows and crowds out disease-causing bacteria?,E. coli grows and crowds out disease-causing bacteria.,E. coli
+E-coli,0,Generate: What does E. coli make?,"E. coli can also make vitamin K, which humans need to be healthy.",vitamin K
+E-coli,0,Generate: What are the toxin-producing forms of E. coli called?,The toxin-producing forms of the E. coli bacteria are called Shiga toxin-producing E. coli (STEC).,Shiga toxin-producing E. coli
+E-coli,0,Generate: What type of bacteria produces severe diarrhea and kidney damage?,One type of the E. coli bacteria produces severe diarrhea and kidney damage.,E. coli
+E-coli,1,Generate: Who can become infected with E. Coli bacteria?,"The elderly and the very young are the most prone to complications, but anyone may become infected with E. coli bacteria.",E. coli bacteria
+E-coli,1,Generate: Where can E. coli be found in?,E. coli can be found many different places.,E. coli
+E-coli,1,Generate: What can be infected during animal slaughtering?,"Since E. coli lives in the intestines of animals, beef or venison can be infected during slaughtering.",beef or venison
+E-coli,1,Generate: What can be transferred to a healthy person if the meat is rare or improperly cooked?,"If the meat is rare or improperly cooked, E. coli can be transferred to a healthy person.",E. coli
+E-coli,0,Generate: What type of contamination can occur if fresh veggies are not properly cleaned or handled?,"If fresh veggies are not properly cleaned or handled, E. coli contamination can occur.",E. coli
+E-coli,0,Generate: What could lead to E. coli contamination?,"In addition to food contamination, E. coli contamination could occur from improper hand washing after using the toilet or diapering.",improper hand washing
+E-coli,0,Generate: What type of disease can be caused by contaminated drinking water?,Contaminated drinking or swimming water can also cause sickness from E. coli.,E. coli
+E-coli,0,Generate: How long after a person has been infected with E. coli can symptoms occur?,"According to the National Institute of Allergy and Infectious Diseases, once a person has been infected with E. coli, symptoms may occur 2 to 5 days after infection.",2 to 5 days
+E-coli,0,Generate: What can a person infected with E. coli have?,A person infected with E. coli may have mild diarrhea or even no symptoms at all.,mild diarrhea
+E-coli,0,Generate: What are the symptoms of E. coli?,"The initial symptoms of E. coli infection are diarrhea or stomach cramps, possibly followed by blood in the stool.",diarrhea or stomach cramps
+E-coli,1,Generate: Does E. Coli cause fever?,A low fever is sometimes present with E. coli infection.,E. coli
+E-coli,1,Generate: What should we do when we are infected with E. coli??,A person infected with E. coli should always see a doctor and the doctor may order special laboratory tests to diagnose whether or not the person is infected by E. coli.,a doctor
+E-coli,0,Generate: What is the most common test for E. coli?,"A blood test to check for toxins, and a culture to grow the organism, are the two most common tests for E. coli.",A blood test
+E-coli,1,Generate: What is growing a culture?,"Growing a culture is that microbes are allowed to reproduce in closed, controlled conditions.","when microbes are allowed to reproduce in closed, controlled conditions"
+E-coli,0,Generate: What are not used to treat E. coli?,The symptoms of E. coli typically go away on their own and it is advised that antibiotics and diarrhea medicines are not used.,antibiotics and diarrhea medicines
+E-coli,0,Generate: What can the use of antibiotics with E. coli lead to?,"The use of antibiotics with E. coli infection may increase the chance of severe complications, which can lead to kidney failure.",kidney failure
+Microbe-Careers,0,Generate: What do we need to recognize to understand the health of humans and the development of life on earth?,"To understand the health of humans and the development of life on earth, we must recognize the vital importance of microbes.",microbes
+Microbe-Careers,0,"Generate: In the medical field, scientists study disease-causing agents?","In the medical field, scientists study disease-causing agents, in an attempt to find methods for prevention and treatment of disease.",in an attempt to find methods for prevention and treatment of disease
+Microbe-Careers,0,Generate: What type of research has improved public health?,Improvements have been made in public health based upon the results of state-of-the-art biomedical research.,state-of-the-art biomedical research
+Microbe-Careers,0,Generate: What does biomedical research study explain in plants and animals?,Findings of biomedical research studies are used to explain how microbes cause infectious diseases in both plants and animals.,how microbes cause infectious diseases
+Microbe-Careers,0,Generate: What techniques do scientists use in humans to analyze findings from biomedical research studies?,"Scientists use various techniques and strategies, including computer modeling, cell culture, animal models, and clinical trials in humans in an attempt to analyze the data of findings from biomedical research studies.","computer modeling, cell culture, animal models, and clinical trials"
+Microbe-Careers,0,Generate: What can be used to reduce the risk of infections?,"Safe handling of food and hygiene, as well as various anti-microbial chemicals, may be used to reduce the risk of and the treatment of various infections.",Safe handling of food and hygiene
+Microbe-Careers,0,Generate: What does quality control do in industrial microbiology?,"Industrial microbiology involves quality control in preventing growth and contamination of products leading to food spoilage, and the production of pharmaceuticals.",preventing growth and contamination of products leading to food spoilage
+Microbe-Careers,0,"Generate: What is the name of the field that has given us many advances and new careers in medicine, agriculture, genetics, and food science?","Understanding of the microbial world has led to the emerging field of biotechnology, which has given us many advances and new careers in medicine, agriculture, genetics, and food science.",biotechnology
+Microbe-Careers,0,Generate: What has raised many ethical issues for an informed community to consider?,"Biotechnology, while it has benefited some states in many ways, has also raised many ethical issues for an informed community to consider.",Biotechnology
+Microbe-Careers,0,Generate: What are some examples of careers in microbiology?,"Some examples of careers in microbiology include bacteriologists, food scientists, and molecular biologists.","bacteriologists, food scientists, and molecular biologists"
+Microbe-Careers,1,Generate: What do bacteriologists examine?,Bacteriologists examine diverse types of bacteria that cause stomach and intestinal infections as well as wound infections.,bacteria
+Microbe-Careers,0,Generate: What do bacteriologists develop?,Bacteriologists have an indirect impact on patients by developing vaccines and ways to make disease-causing microbes less harmful.,vaccines
+Microbe-Careers,0,Generate: What do Food Scientists use to analyze food content for nutritional value?,"Food Scientists use chemistry, microbiology, engineering, and other sciences to analyze food content for nutritional value, discover new food sources, and research ways to make processed foods safe, healthy, and delicious.","chemistry, microbiology, engineering, and other sciences"
+Microbe-Careers,0,"Generate: Who develops new or improved ways of preserving, processing, packaging, storing, and delivering foods?","Food Scientists develop new or improved ways of preserving, processing, packaging, storing, and delivering foods.",Food Scientists
+Microbe-Careers,0,"Generate: Who test new products for flavor, texture, color, nutritional content?","Food Scientists test new products for flavor, texture, color, nutritional content, and adherence to government and industry standards.",Food Scientists
+Microbe-Careers,0,"Generate: Who checks finished products for safety, quality, and nutritional value?","Food Scientists check finished products for safety, quality, and nutritional value.",Food Scientists
+Microbe-Careers,0,Generate: Who study how genes in cells cause biological characteristics and functions in organisms?,Molecular Biologists study how genes in cells cause biological characteristics and functions in organisms.,Molecular Biologists
+Microbe-Careers,0,"Generate: Who study the genetic composition of plants, animals, humans, bacteria, and fungi?","Molecular Biologists study the detailed genetic make-up of plants, animals, humans, bacteria, and fungi.",Molecular Biologists
+Microbe-Careers,0,Generate: Who study DNA for medical testing for disease-causing organisms?,Molecular Biologists study DNA for medical testing for disease-causing organisms and to test for inherited genetic disorders.,Molecular Biologists
+Microbe-Careers,0,Generate: What does Molecular Biologists use to provide law enforcement with evidence to help solve crimes?,"Molecular Biologists manipulate genes to breed new crop plants or livestock, aid in the development of new medicines, and use DNA fingerprinting to provide law enforcement with evidence to help solve crimes.",DNA fingerprinting
+Microbe-Careers,0,Generate: What are some of the careers in microbiology?,"Careers in microbiology include mycologists, environmental scientists, geneticists, and virologists.","mycologists, environmental scientists, geneticists, and virologists"
+InfluenzaPoster,1,Generate: What is influenza?,Influenza is a viral infection.,viral
+InfluenzaPoster,0,Generate: What are the symptoms of influenza?,"The symptoms of influenza are cough, fever, sore throat, and difficult breathing.","cough, fever, sore throat, and difficult breathing"
+InfluenzaPoster,0,Generate: What is the way to treat or prevent influenza?,The way to treat or prevent influenza is with vaccination.,vaccination
+Epidemic,0,Generate: What are some examples of pathogens?,"Some examples of pathogens are bacteria, parasites, viruses, and fungi.","bacteria, parasites, viruses, and fungi"
+Epidemic,0,"Generate: When an infectious disease is much greater than expected, what is it called?","When an outbreak of an infectious disease is much greater than expected, it is called an epidemic.",an epidemic
+Epidemic,0,Generate: What is the name of the epidemic that spreads around the world?,"When an epidemic spreads around the world, it is called a pandemic.",pandemic
+Epidemic,1,Generate: What kinds of Infectious diseases have sparked epidemics?,Infectious diseases such as ebola and influenza have sparked epidemics.,ebola and influenza
+Epidemic,0,"Generate: In the early 20th century, what type of pandemic was particularly devastating?",An influenza pandemic in the early 20th century was especially devastating.,influenza pandemic
+Epidemic,1,Generate: How many did people die from a flu pandemic?,"According to the National Archives, more people died from the 1918 flu pandemic than the first World War.",1918
+Epidemic,0,Generate: In what year did influenza infect 20% of the world?,Influenza infected 20% of the world’s population during the 1918 flu pandemic.,1918
+Epidemic,0,Generate: How many years did the deaths attributed to the flu pandemic reduce life expectancy in the United States?,"In a single year, the deaths attributed to the flu pandemic actually reduced life expectancy in the United States by 12 years.",12 years
+Parasites-and-Disease,0,Generate: What does a parasite live on?,"A parasite is an organism that lives on, or in, a second species.",a second species
+Parasites-and-Disease,1,Generate: What is the second species which a parasite live on called?,"This second species is called the host, since it accommodates the parasite in, or on, its body.",the host
+Parasites-and-Disease,1,Generate: Is the relationship between a parasite and a host specific?,The relationship between a parasite and a host usually works with specific host and not any other.,a parasite
+Parasites-and-Disease,0,Generate: Parasites will use what?,Parasites will take advantage of hosts.,hosts
+Parasites-and-Disease,0,Generate: What can a parasite take from the host?,A parasite may take food or shelter from the host.,food or shelter
+Parasites-and-Disease,1,Generate: Who gains advantages between a parasite and a host?,"Between a parasite and a host, the parasite is often the smaller of the two and gains advantages from the host.",the host
+Parasites-and-Disease,0,Generate: What is the relationship between a host and a host?,"In the relationship between a parasite and a host, the host ends up being harmed by the parasite.",a parasite
+Parasites-and-Disease,0,Generate: What does a parasite require to survive?,A parasite requires a host to survive.,a host
+Parasites-and-Disease,0,Generate: What are parasitic diseases often referred to as?,"For humans, parasitic diseases are often foodborne or waterborne.",foodborne or waterborne
+Parasites-and-Disease,1,Generate: How can we prevent parasitic diseases?,"Parasitic diseases can be prevented by careful handling of food or water, such as the filtering and/or boiling water or cooking food thoroughly.",water
+Parasites-and-Disease,0,Generate: What type of meat does parasitic tapeworms infect a person?,Parasitic tapeworms can infect a person if they eat rare infected meat.,rare infected meat
+Parasites-and-Disease,0,Generate: What are some parasitic tapeworms contracted by eating?,"Some parasitic tapeworms are contracted by eating raw, infected fish.",infected fish
+Parasites-and-Disease,1,Generate: What does the parasitic hookworm infection cause?,The parasitic hookworm infection causes the disease trichinosis and comes from infected pork.,pork
+Parasites-and-Disease,0,Generate: How many people infect Ancyostoma and Necator?,"The parasitic hookworms Ancyostoma and Necator, which infect over 400 million people, enter through the feet of a person.",400 million
+Parasites-and-Disease,1,Generate: How do we prevent parasitic hookworm infection?,Wearing shoes in likely infected areas is a preventative measure against parasitic hookworms.,a preventative measure against parasitic hookworms
+Parasites-and-Disease,1,Generate: How can we reduce transmissions of parasites from pets?,Washing one's hands before handling food can reduce transmissions of parasites from pets.,pets
+Parasites-and-Disease,1,Generate: What is Malaria?,Malaria is an infection caused by a member of the parasite family of Plasmodium.,Plasmodium
+Parasites-and-Disease,0,Generate: What is Trypanosoma?,The disease commonly referred to as sleeping sickness is caused by a parasite carried by insects such as the tsetse fly called Trypanosoma.,tsetse fly
+Parasites-and-Disease,1,Generate: How can we reduce the infection by insects?,Infection by insects can be reduced by using an insect repellent and sleeping in mosquito-netting protected by DEET.,mosquito-netting
+Scientific-Method,0,Generate: What does a scientist use to solve a problem?,"When a scientist approaches a problem or wishes to discover new knowledge, they use a ""recipe"" for problem solving called the scientific method.",scientific method
+Scientific-Method,0,Generate: What does the scientific method begin with?,The scientific method begins with a problem.,a problem
+Scientific-Method,1,Generate: In the scientific method what must first be identified?,In the scientific method the problem must first be identified.,scientific
+Scientific-Method,0,Generate: What is a possible solution for the problem?,"After gathering background information with the scientific method, a hypothesis--a possible solution for the problem--should be created.",hypothesis
+Scientific-Method,0,Generate: How can a hypothesis be tested?,A hypothesis can be tested by performing experiments and collecting data about a problem.,performing experiments and collecting data about a problem
+Scientific-Method,1,"Generate: After collecting observational data with the scientific method, what should we do?","After collecting observational data with the scientific method, the problem and/or hypothesis may be redefined, which leads to more experimentation.",the scientific method
+Scientific-Method,1,"Generate: If the original data was satisfactory, what can we do with the data?","If the original data was satisfactory, then the data can be analyzed.",If the original data was satisfactory
+Scientific-Method,0,Generate: What is the purpose of careful examination of the data?,"Analysis involves careful examination of the data in order to detect patterns, differences, or trends observed in the experiment.","to detect patterns, differences, or trends observed in the experiment"
+Scientific-Method,1,Generate: Who do we share the conclusions from an analysis with?,The conclusions from an analysis are shared with other scientists and the public.,other scientists and the public
+Centers-for-Disease-Control-and-Prevention,0,Generate: Where is the Centers for Disease Control and Prevention located?,"The Centers for Disease Control and Prevention, or CDC, is headquartered in Atlanta, GA.","Atlanta, GA"
+Centers-for-Disease-Control-and-Prevention,0,Generate: What was the Centers for Disease Control and Prevention originally called?,The Centers for Disease Control and Prevention was originally called the Communicable Disease Center.,Communicable Disease Center
+Centers-for-Disease-Control-and-Prevention,0,Generate: When was the Centers for Disease Control and Prevention organized?,"When the Centers for Disease Control and Prevention was organized in 1946, the original charge of the agency was to fight malaria.",1946
+Centers-for-Disease-Control-and-Prevention,0,"Generate: What is the name of the government agency that leads the nation and the world in health promotion, prevention, and preparedness?","The Centers for Disease Control and Prevention is a government agency that leads the nation and the world in “health promotion, prevention, and preparedness.”",Centers for Disease Control and Prevention
+Centers-for-Disease-Control-and-Prevention,0,Generate: Who monitors diseases across the world?,The Centers for Disease Control and Prevention monitors diseases across the nation and around the world.,The Centers for Disease Control and Prevention
+Centers-for-Disease-Control-and-Prevention,0,Generate: Who works to develop strategies for disease prevention?,The Centers for Disease Control and Prevention works to develop strategies for disease prevention.,Centers for Disease Control and Prevention
+Centers-for-Disease-Control-and-Prevention,0,Generate: Who develops and shares scientific knowledge with the public?,The Centers for Disease Control and Prevention develops and shares scientific knowledge with the public and it trains health professionals.,The Centers for Disease Control and Prevention
+Centers-for-Disease-Control-and-Prevention,0,Generate: Who works to promote healthy behaviors and environments to create a safe public health system around the world?,The Centers for Disease Control and Prevention works to promote healthy behaviors and environments to create a safe public health system around the world.,The Centers for Disease Control and Prevention
+Microbiology,0,Generate: What does microbiology study?,Microbiology is a category of science that studies one-celled organisms.,one-celled organisms
+Microbiology,1,Generate: Can we see cells with the human eye?,We cannot see the cell with the human eye although cells can be viewed through microscopes.,microscopes
+Microbiology,1,Generate: How small is a cell?,"To help you understand the small size of an individual cell, consider that the human body is made up of about 75 trillion cells.",75 trillion
+Microbiology,0,Generate: What are the smallest structural units of an organism capable of functioning independently?,Cells are the smallest structural units of an organism capable of functioning independently.,Cells
+Microbiology,1,Generate: Who was the one of the first scientists to view cells under his light microscope?,"In the year 1665, Robert Hooke was one of the first scientists to view cells under his light microscope. Hooke viewed the cells of a plant and recognized these as clusters of cellulae.",1665
+Microbiology,0,Generate: What did Hooke recognize as clusters of?,"In the year 1665, Robert Hooke was one of the first scientists to view cells under his light microscope. Hooke viewed the cells of a plant and recognized these as clusters of cellulae.",cellulae
+Microbiology,0,Generate: What is the Latin word for tiny storage rooms?,Cellulae is the Latin word for tiny storage rooms.,Cellulae
+Microbiology,1,Generate: Who used light microscopes to see cells?,"About 175 years after cells were first viewed by Robert Hooke in 1665, botanists and zoologists used light microscopes to see differences between plant and animal cells.",175 years
+Microbiology,1,Generate: Are there different types of cells?,There are several types of cell categories.,cell categories
+Microbiology,0,Generate: What is an important part of the job of the microbiologist?,Sorting by how things are alike or different is an important part of the job of the microbiologist.,Sorting by how things are alike or different
+Microbiology,0,Generate: What are the cell categories?,"Cell categories are all of the following: animal, plant, bacteria, fungi, and virus structures.","animal, plant, bacteria, fungi, and virus structures"
+Microbiology,1,Generate: How can we describe cells?,We can describe cells by characteristics or attributes.,characteristics
+Microbiology,0,Generate: What is the animal cell enclosed by?,The animal cell is enclosed by a membrane-bound nucleus. Within the membrane there is a nucleus that contains genetic material.,a membrane-bound nucleus
+Microbiology,0,Generate: What does the animal cell contain in the membrane?,The animal cell is enclosed by a membrane-bound nucleus. Within the membrane there is a nucleus that contains genetic material.,a nucleus that contains genetic material
+Microbiology,0,Generate: What can a whip-like structure help with?,Animal cells have small whip-like structures that can help with locomotion.,locomotion
+Microbiology,0,Generate: What is enclosing the plant cell?,"The plant cell is more rigid than the animal cell, with a wall enclosing it.",a wall
+Microbiology,0,Generate: Bacteria are a type of prokaryotic cell without what?,Bacteria are a type of prokaryotic cell without a nucleus.,a nucleus
+Microbiology,0,Generate: What type of coat does the virus have?,The virus has a simple structure of genetic material surrounded by a protein coat.,protein coat
+Microbiology,0,Generate: What type of organism does the virus live as parasite in?,"The virus is in the category of parasite and always lives as parasite in plant, animal, or other one-celled organisms.",one-celled
+Microbiology,0,Generate: What are plant biologists known as?,Plant biologists are known as botanists.,botanists
+Microbiology,0,Generate: What are animal biologists known as?,Animal biologists are known as zoologists.,zoologists
+Mutagen,0,Generate: What is the genetic change in an organism caused by a physical or chemical agent called?,The genetic change in an organism caused by a physical or chemical agent is called a mutation.,a mutation
+Mutagen,0,Generate: What is the physical or chemical agent that causes a mutation called?,The physical or chemical agent that causes a mutation is called a mutagen.,mutagen
+Mutagen,0,Generate: What are not all mutations caused by?,Not all mutations are caused by mutagens.,mutagens
+Mutagen,0,Generate: What causes a naturally occurring mutation?,A naturally occurring mutation may occur because of an error in DNA replication. This is called spontaneous mutation.,an error in DNA replication
+Mutagen,0,Generate: What is a naturally occurring mutation called?,A naturally occurring mutation may occur because of an error in DNA replication. This is called spontaneous mutation.,spontaneous mutation
+Mutagen,0,Generate: What can cause cancer?,Mutagens may cause cancer.,Mutagens
+Mutagen,0,Generate: What is an agent that causes cancer called?,An agent that causes cancer is called a carcinogen.,a carcinogen
+Mutagen,1,Generate: What is the relationship between a carcinogen and a mutagen,"A carcinogen may be a mutagen, and a mutagen may be a carcinogen.",mutagen
+Mutagen,0,Generate: When did hippocrates first study physical changes in living things?,Hippocrates first studied physical changes in living things around 500 B.C.,500 B.C
+Mutagen,0,Generate: What is the word that cancer is derived from?,"Hippocrates observed tumors and called them karkinos, which is the word that cancer is derived from.",karkinos
+Mutagen,0,Generate: When were genetic changes first linked to mutagens?,Genetic changes were first linked to mutagens in 1927.,1927
+Mutagen,0,Generate: What is electromagnetic radiation commonly called?,"Hermann Muller discovered that electromagnetic radiation, commonly called x-rays, could cause genetic mutations in fruit flies. The next generation of fruit flies had a clear change in the chromosomes from the parental chromosomes.",x-rays
+Mutagen,1,Generate: What did the next generation of fruit flies have a clear change in when exposed to x-rays?,"Hermann Muller discovered that electromagnetic radiation, commonly called x-rays, could cause genetic mutations in fruit flies. The next generation of fruit flies had a clear change in the chromosomes from the parental chromosomes.",chromosomes
+Mutagen,0,Generate: What was the cause of genetic mutations in fruit flies?,"After observing genetic mutations caused by x-rays in fruit flies, it was later shown that the use of x-rays also could change the genetic makeup of humans too.",x-rays
+Mutagen,1,Generate: When did people know that chemicals cause mutations in living cells?,"It was not until the 1940s that chemicals, like x-rays, were shown to cause mutations in living cells.",x-rays
+Mutagen,0,Generate: What were the first studies to investigate mutations in living cells caused by chemicals?,The first studies investigating mutations in living cells caused by chemicals were done on fruit flies.,fruit flies
+Mutagen,0,Generate: Mutagens can be found as what?,"Mutagens may be found as physical, chemical, or biological agents.","physical, chemical, or biological agents"
+Mutagen,0,Generate: What is an example of a physical mutagen?,"An example of a physical mutagen is radiation, such as x-rays or gamma radiation.",x-rays or gamma radiation
+Mutagen,0,Generate: What chemical can create changes to DNA?,"Chemicals, such as benzene or arsenic, may create changes to DNA, as well as processes associated with DNA replication.",benzene or arsenic
+Mutagen,0,Generate: What is the basic genetic code of a cell?,DNA is the basic genetic code of a cell.,DNA
+Mutagen,0,Generate: What are the biological agents that can act as mutagens?,"Biological agents, which can act as mutagens, include viruses and bacteria.",viruses and bacteria
+Mutagen,0,Generate: What can insert its DNA into a cell?,A virus can insert its DNA into a cell and cause problems for the cell.,A virus
+Mutagen,1,Generate: How can some bacteria cause mutation?,Some bacteria may cause mutations by interfering with cellular processes.,mutations
+Mutagen,1,Generate: How can we decrease the chances of being affected by mutagens?,"There are several steps that may be taken in order to decrease the chances of being affected by mutagens. By eating more fruits and vegetables, which contain antioxidants, you may be able to decrease the chances of being affected by mutagens. By limiting your exposure to physical mutagens such as ultraviolet radiation and tobacco smoke or polluted air, you may be able to decrease the chances of being affected by mutagens.",mutagens
+Mutagen,0,Generate: What can you reduce the chances of being affected by eating more fruits and vegetables?,"By eating more fruits and vegetables, which contain antioxidants, you may be able to decrease the chances of being affected by mutagens.",mutagens
+Mutagen,1,Generate: How can we decrease the chances of being affected by physical mutagens?,"By limiting your exposure to physical mutagens such as ultraviolet radiation and tobacco smoke or polluted air, you may be able to decrease the chances of being affected by mutagens.",limiting your exposure to physical mutagens
+Mutagen,1,Generate: Can we get some benefits from mutagens?,There are positive uses for mutagens. Some mutagens are used to destroy cancer cells in therapies such as chemotherapy or radiation therapy.,mutagens
+Mutagen,0,Generate: What are used to destroy cancer cells?,Some mutagens are used to destroy cancer cells in therapies such as chemotherapy or radiation therapy.,mutagens
+Study-of-Microbes-microbiology,0,Generate: What science explores how microbes work?,The science of microbiology explores how microbes work and how to control them.,microbiology
+Study-of-Microbes-microbiology,0,Generate: What did microbiologists and other researchers learn about microbes?,Microbiologists and other researchers have had many successes in learning how microbes cause certain infectious diseases and how to combat those microbes.,how microbes cause certain infectious diseases
+Study-of-Microbes-microbiology,0,Generate: How many major groups do most microbes belong to?,"Most microbes belong to one of four major groups: bacteria, viruses, fungi, or protozoa.",four
+Study-of-Microbes-microbiology,0,Generate: What is a common word for microbes that cause disease?,"A common word for microbes that cause disease is ""germs.""",germs
+Study-of-Microbes-microbiology,0,Generate: What do some people refer to disease-causing microbes as?,"Some people refer to disease-causing microbes as ""bugs.""",bugs
+Study-of-Microbes-microbiology,1,Generate: What does a flu bug mean?,"""I've got the flu bug,"" is a phrase you may hear during the wintertime to describe an influenza virus infection.",wintertime
+Study-of-Microbes-microbiology,0,Generate: What do scientists call a group of many germs?,Scientists call a group of many germs bacteria.,bacteria
+Study-of-Microbes-microbiology,0,Generate: What would a scientist call one germ?,A scientist would call one germ a bacterium.,a bacterium
+Study-of-Microbes-microbiology,1,Generate: What is the plural of virus?,Scientists call one virus a virus but more than one are called viruses.,more than one
+Study-of-Microbes-microbiology,0,Generate: What type of microscope is used to view larger microbes?,"There are two kinds of microscopes, light microscope to view larger microbes and the electron microscope used to view the smallest microbes.",light microscope
+Study-of-Microbes-microbiology,0,Generate: Where can microbes be found?,Microbes can be found everywhere on the earth.,everywhere
+Study-of-Microbes-microbiology,0,Generate: What do microbes live in?,"Microbes live in air, soil, rock, and water.","air, soil, rock, and water"
+Study-of-Microbes-microbiology,0,Generate: Where are microbes found?,Microbes are found in plants and animals as well as in the human body.,plants and animals
+Study-of-Microbes-microbiology,0,Generate: What type of temperatures can microbes live in?,Microbes can live in very hot temperatures and some live in extreme cold temperatures.,very hot
+Study-of-Microbes-microbiology,0,Generate: What do some microbes need to live?,"Some microbes need oxygen to live, but others do not.",oxygen
+Study-of-Microbes-microbiology,0,"Generate: What causes diseases in humans, plants, and animals?","Some microbes cause disease in humans, plants, and animals.",microbes
+Study-of-Microbes-microbiology,0,"Generate: What are microbes that cause disease in humans, plants, and animals?","Microbes that cause disease in humans, plants, and animals are harmful microbes.",harmful
+Study-of-Microbes-microbiology,1,Generate: Are microbes beneficial?,"Some microbes are essential for a healthy life, and we could not exist without them.",microbes
+Study-of-Microbes-microbiology,0,Generate: What are microbes that are essential for a healthy life helpful?,Microbes that are essential for a healthy life are helpful microbes.,microbes
+Study-of-Microbes-microbiology,1,Generate: Are bacteria helpful?,Some bacteria are helpful.,bacteria
+Study-of-Microbes-microbiology,0,Generate: What helps with digestion?,Probiotics in the human intestine help with digestion.,Probiotics
+Study-of-Microbes-microbiology,0,Generate: What is the most common type of bacteria used as probiotics?,Lactic acid bacteria (LAB) and bifidobacteria are the most common types of microbes used as probiotics.,Lactic acid bacteria
+Study-of-Microbes-microbiology,0,Generate: What is the relationship between microbes and humans?,The relationship between microbes and humans is delicate and complex.,delicate and complex
+Study-of-Microbes-microbiology,0,Generate: How long ago did researchers learn that microbes can cause many chronic diseases and conditions?,"Nearly a hundred years ago, researchers began to learn that microbes can cause many chronic diseases and conditions.",a hundred years ago
+Study-of-Microbes-microbiology,0,"Generate: What can cause some forms of cancer, coronary artery disease, diabetes, multiple sclerosis and chronic lung diseases?","Scientific research has shown that microbes may cause some forms of cancer, coronary artery disease, diabetes, multiple sclerosis, and chronic lung diseases.",microbes
+Study-of-Microbes-microbiology,0,Generate: What is an example of harmful bacteria?,An example of harmful bacteria is Anthrax.,Anthrax
+Study-of-Microbes-microbiology,1,Generate: Can Anthrax cause death?,Anthrax can cause death.,Anthrax
+Study-of-Microbes-microbiology,1,Generate: What is an example of harmful bacteria that causes sickness?,A harmful bacteria that causes sickness is Salmonella.,Salmonella
+Study-of-Microbes-microbiology,0,Generate: What is a type of bacteria that causes the patient to be very sick but doesn't always cause death?,Salmonella is a type of bacteria causes the patient to be very sick but doesn't always cause death.,Salmonella
+Study-of-Microbes-microbiology,0,Generate: What type of microbe must have a host cell to reproduce?,Viruses are a type of microbe that must have a host cell (such as an animal or plant cell) to reproduce.,Viruses
+Study-of-Microbes-microbiology,1,Generate: What is an example of deadly virus?,A very deadly virus is the Ebola virus.,Ebola
+Study-of-Microbes-microbiology,0,Generate: What is the effect of Ebola?,Patients often die from loss of blood with Ebola.,loss of blood
+How-do-diseases-spread,0,Generate: Infectious diseases are caused by what?,Infectious diseases are illnesses caused by pathogens.,pathogens
+How-do-diseases-spread,0,Generate: What are some pathogens?,"Examples of pathogens are parasites, bacteria, viruses, and fungi.","parasites, bacteria, viruses, and fungi"
+How-do-diseases-spread,0,Generate: What can be transmitted in several different ways?,Pathogens can be transmitted in several different ways.,Pathogens
+How-do-diseases-spread,0,Generate: What is a way that diseases are transmitted?,"Physical contact with contaminated food and water, body fluids, and airborne pathogens are ways that diseases are transmitted.",Physical contact
+How-do-diseases-spread,0,Generate: What is a disease considered if it is easily transmitted?,"If a disease is easily transmitted, it is considered contagious.",contagious
+How-do-diseases-spread,0,Generate: Pathogens are transmitted or carried by what?,Pathogens are transmitted or carried by a vector.,a vector
+How-do-diseases-spread,0,Generate: What could a vector be?,"A vector could be a person, animal, or microorganism.","a person, animal, or microorganism"
+How-do-diseases-spread,0,Generate: What is the best way to prevent the spread of disease?,"Since direct contact is a common means of transmission, the best way to prevent the spread of disease is to properly wash your hands.",properly wash your hands
+How-do-diseases-spread,0,Generate: How can you protect yourself from getting sick?,"Since respiratory illnesses are spread through inhalation of pathogens, you can protect yourself from getting sick by avoiding contact with those who are coughing and sneezing.",avoiding contact with those who are coughing and sneezing
+How-do-diseases-spread,0,Generate: What can a bodily fluid carry?,"Bodily fluids may carry pathogens. Therefore, you can protect yourself from getting sick by avoiding contact with bodily fluids.",pathogens
+How-do-diseases-spread,0,Generate: How can you protect yourself from getting sick?,"Bodily fluids may carry pathogens. Therefore, you can protect yourself from getting sick by avoiding contact with bodily fluids.",bodily fluids
+Immune-System,1,Generate: What kind of systems does a human body have?,"The human body has many systems, each of which has a specific function.",a specific function
+Immune-System,1,Generate: What is a system to keep the body healthy?,The immune system has the job of keeping the body healthy.,The immune system
+Immune-System,1,Generate: What does the immune system do?,"The immune system is able to recognize when the body is infiltrated with outside organisms, such as bacteria, parasites, virus, or fungi.",fungi
+Immune-System,0,Generate: What is the immune system composed of?,The immune system is composed of several organs including the lymph nodes.,lymph nodes
+Immune-System,1,Generate: Where are the lymph nodes found?,The lymph nodes are found throughout the body.,lymph nodes
+Immune-System,0,Generate: What is one important function for lymph nodes?,One important function for the lymph nodes is to filter fluids circulating in the body.,to filter fluids circulating in the body
+Immune-System,1,Generate: What do the lymph nodes do?,The lymph nodes store the materials that can fight infections.,lymph nodes
+Immune-System,1,Generate: How does the immune system work when it identifies that an attacker has infiltrated the body?,"Once the immune system identifies that an attacker has infiltrated the body, the system will send out various cells to attack and try to destroy the invaders.",the immune system
+Genetic-Diseases,0,Generate: Not all diseases have the same means of what?,"Not all diseases have the same means of transmission. Some diseases are infectious, while others are genetic.",transmission
+Genetic-Diseases,1,Generate: Do all diseases have the same means of transmission?,"Not all diseases have the same means of transmission. Some diseases are infectious, while others are genetic.",infectious
+Genetic-Diseases,0,Generate: What is an invading organism called?,"Infectious diseases are caused by an invading organism, called a pathogen, entering the body of a host. For example, streptococcus pneumoniae bacteria can invade the human body, and cause a person to become ill with pneumonia.",pathogen
+Genetic-Diseases,0,Generate: What bacteria can invade the body of a host?,"Infectious diseases are caused by an invading organism, called a pathogen, entering the body of a host. For example, streptococcus pneumoniae bacteria can invade the human body, and cause a person to become ill with pneumonia.",streptococcus pneumoniae
+Genetic-Diseases,1,Generate: How can we avoided an infectious disease?,An infectious disease can be avoided by not coming into contact with the pathogen.,not coming into contact with the pathogen
+Genetic-Diseases,0,Generate: Genetic diseases are caused by what?,Genetic diseases are caused by modified DNA within an organism.,modified DNA
+Genetic-Diseases,0,Generate: What are some examples of genetic diseases?,"Examples of genetic diseases include sickle cell, cystic fibrosis, and Tay-Sachs.","sickle cell, cystic fibrosis, and Tay-Sachs"
+Genetic-Diseases,0,Generate: What are genetic changes called?,"Genetic changes, or mutations, in genes can sometimes cause certain abnormalities leading to disease.",mutations
+Smallpox,0,Generate: What virus is found only in research settings?,"Today, the smallpox virus is only found in research settings.",smallpox
+Smallpox,0,Generate: What virus causes smallpox?,"Smallpox is caused by the Variola virus, which is passed from person to person by extended direct contact.",Variola virus
+Smallpox,1,Generate: Is there a treatment for smallpox?,There is no treatment for smallpox and the disease is often fatal.,smallpox
+BacteriaStructurePoster,1,Generate: What is a nucleoid?,"Bacteria have a cell wall and a nucleoid, which contains genetic material that floats freely.",a cell wall and a nucleoid
+Food-Safety,0,Generate: How many Americans could get sick from food poisoning this year?,"According to the U.S. Department of Health and Human Services, one in six Americans could get sick from food poisoning alone this year.",one in six
+Food-Safety,1,Generate: How do we protect ourselves from food poisoning?,"When handling food, before and after cooking, we need to make sure that we are mindful of how to protect ourselves from harmful bacteria that causes food poisoning.",food
+Food-Safety,1,Generate: How can we contaminate our food and our bodies?,There are many different ways that we can contaminate our food and our bodies if we do not follow food safety tips and cooking labels.,food safety tips and cooking labels
+Food-Safety,0,"Generate: When you are ready to prepare food, what is important to do?","It is important to clean your hands, surfaces, and utensils throughout your kitchen when you are getting ready to prepare food.","clean your hands, surfaces, and utensils"
+Food-Safety,1,Generate: How can bacteria cause us to get ill in the kitchen?,Bacteria that cause us to get ill can live throughout our kitchen and if you do not clean the surfaces the right way then you are putting yourself and others at risk of getting sick from bacteria.,bacteria
+Food-Safety,1,Generate: How do you prepare certain foods not to contaminate your food?,"As you start to prepare a meal, you need to make sure that you are careful with how you prep certain foods so that you do not cross-contaminate your food.",you do not cross-contaminate your food
+Food-Safety,0,Generate: What can be easily spread between surfaces and foods when you are preparing a meal?,Bacteria can easily spread between surfaces and foods when you are preparing a meal if you are not mindful of the surfaces and utensils you are using.,if you are not mindful of the surfaces and utensils you are using
+Food-Safety,0,Generate: What is a danger to you when you are cooking foods?,"When you are cooking a variety of foods, it is important to carefully follow the directions so that we do not put ourselves at risk for getting food poisoning.",food poisoning
+Food-Safety,1,Generate: Why is there the recommended temperature for cooking?,"There are recommended cooking temperatures for a reason. When food does not reach the recommended temperature, then bacteria that causes us to get food poisoning multiplies quickly.",cooking temperatures
+Food-Safety,0,Generate: What causes us to get food poisoning?,"When food does not reach the recommended temperature, then bacteria that causes us to get food poisoning multiplies quickly.",bacteria
+Food-Safety,0,Generate: What can be killed when you heat food to a high temperature?,"When you heat food to a high enough temperature, then the disease-causing bacteria can be killed.",bacteria
+Salmonellosis,1,Generate: What is Salmonella?,Salmonella is a rod shaped bacterium in the bacillus genus.,bacillus genus
+Salmonellosis,0,Generate: Salmonellosis is caused by what?,Salmonellosis is an illness caused by the bacilli Salmonella.,bacilli Salmonella
+Salmonellosis,0,Generate: Salmonella bacteria are passed to animals and people through what?,Salmonella bacteria are passed to animals and people through feces.,feces
+Salmonellosis,0,Generate: What is the most commonly reported bacterial infection?,The Surveillance Report from the Food Diseases Active Surveillance states that salmonellosis is the most commonly reported bacterial infection.,salmonellosis
+Salmonellosis,0,Generate: How much of human infections are caused by salmonella bacterium?,Two types of salmonella bacterium are the cause of about half of human infections.,about half
+Salmonellosis,1,Generate: Does Salmonella infection exhibit common symptoms in all people?,Salmonella infection does not exhibit symptoms in all people.,Salmonella
+Salmonellosis,0,Generate: What do most patients infected with Salmonella experience within a few hours to a few days of infection?,"Most patients infected with Salmonella experience fever, abdominal cramps, and diarrhea within a few hours to a few days of infection.","fever, abdominal cramps, and diarrhea"
+Salmonellosis,1,Generate: How long do people with Salmonella get better?,Most people with Salmonella infection get better in a few days without seeing a doctor.,a few days
+Salmonellosis,1,Generate: Who are at a higher risk when salmonellosis is suspected?,"People with chronic medical conditions, the elderly, young children, and pregnant women are at a higher risk for developing serious complications, and they should seek medical attention if salmonellosis is suspected.",serious complications
+Salmonellosis,1,Generate: How are the Salmonella bacteria usually transmitted to humans?,The Salmonella bacteria are usually transmitted to humans by eating food that has been accidentally contaminated with fecal matter.,fecal matter
+Salmonellosis,1,Generate: How do we prevent the contamination of food with Salmonella?,"According to the United Stated Department of Agriculture (USDA), several steps can be taken to prevent the contamination of food with Salmonella. It is essential that people wash their hands after coming into contact with feces.",Salmonella
+Salmonellosis,1,Generate: What do people need to do to prevent Salmonella infection?,It is essential that people wash their hands after coming into contact with feces.,feces
+Salmonellosis,0,Generate: What are some common situations where contact with feces can occur?,"Common situations where contact with feces can occur include handling pets, changing diapers, or going to the bathroom.",pets
+Salmonellosis,0,Generate: How should food preparation areas and materials be cleaned?,Food preparation areas and materials should be cleaned thoroughly throughout cooking.,thoroughly
+Salmonellosis,0,Generate: What should be separated from other foods while preparing food?,"While preparing food, raw meats should be separated from other foods and separate utensils should be used.",raw meats
+Salmonellosis,0,Generate: How should food be cooked?,Food should be cooked to the proper internal temperature.,to the proper internal temperature
+Salmonellosis,1,Generate: What type of food should be properly refrigerated?,"Food such as milk products, eggs, meat, poultry, fish, and shellfish should be refrigerated properly.",refrigerated
+Salmonellosis,1,Generate: How can we reduce the possibility of contracting and spreading Salmonellosis?,Following proper sanitation practices will help to reduce the possibility of contracting and spreading Salmonellosis.,Salmonellosis
+Description-of-Viruses,0,Generate: What types of microbes are there?,"There are many different type of microbes, such as bacteria, fungi, parasites, and viruses.","bacteria, fungi, parasites, and viruses"
+Description-of-Viruses,0,Generate: What are the smallest microbes?,"Viruses are the smallest microbes, which scientists study in the field of microbiology.",Viruses
+Description-of-Viruses,1,Generate: What is a virus unable to do?,"A virus is not made up of cells, thus it is unable to carry out cellular functions.",cellular functions
+Description-of-Viruses,1,Generate: How does a virus reproduce?,"In order to reproduce, a virus must invade a cell and use the cell’s organelles, which are small organ-like parts of the cell.",organelles
+Description-of-Viruses,0,Generate: What do Viruses not have?,Viruses do not have organelles.,organelles
+Description-of-Viruses,0,Generate: What is the outer structure of a virus called?,The coat of a virus is called the capsid but other viruses have an outer structure called an envelope.,an envelope
+Description-of-Viruses,0,Generate: What does a capsid hold?,A capsid holds the virus's nucleic acid.,nucleic acid
+Description-of-Viruses,0,Generate: What factors determine the shape of a virus?,The shape of a virus is determined by the nucleic acid and capsid.,nucleic acid and capsid
+Description-of-Viruses,0,Generate: What are usually harmful to the host?,"Viruses are usually harmful to the host, and some even cause diseases in humans.",Viruses
+Vaccines,0,Generate: What is an important defense against the spread of infectious diseases?,Vaccines are an important line of defense against the spread of infectious diseases.,Vaccines
+Vaccines,0,Generate: What allow people to develop immunity so that they don't get the disease in the future?,Vaccines allow people to develop immunity so that they do not get the disease in the future.,Vaccines
+Vaccines,0,Generate: How does a vaccine work?,A vaccine works by introducing a weak or dead microbe to the body.,introducing a weak or dead microbe to the body
+Vaccines,0,Generate: What does the body recognize after a vaccination?,"When the body recognizes a foreign microbe after vaccination, it immediately begins to fight against it.",a foreign microbe
+Vaccines,0,Generate: What type of cells do some of the body's fighting cells turn into after vaccination?,"Once a microbe has been defeated, some of the body's fighting cells turn into memory cells after vaccination.",memory
+Vaccines,0,Generate: What are prepared to fight against the same type of microbe after vaccination?,"After vaccination memory cells are then prepared to fight against the same type of microbe later on, if the body is introduced to it again.",memory cells
+Vaccines,1,Generate: What type of infectious disease devastated people before vaccination affect people throughout the nineteenth and early twentieth centuries?,"Infectious disease before vaccination, like diphtheria and pertussis, devastated people throughout the nineteenth and early twentieth centuries.",diphtheria and pertussis
+Vaccines,1,Generate: What type of disease caused hundreds and thousands of people to die?,"When an outbreak of diptheria or pertussis occurred, hundreds and even thousands of people often died.",diptheria or pertussis
+Vaccines,1,Generate: In what year did the great influenza epidemic kill thousands of people?,"In 1918, the great influenza epidemic of the U.S. killed thousands of people.",1918
+Vaccines,1,"Generate: In the 1918 great influenza epidemic, how quickly did it make people die?","In the 1918 great influenza epidemic, some people died within hours after becoming ill. With vaccination today, the National Institute of Allergy and Infectious Diseases conducts research that helps lead to the development of new and improved vaccines.",1918
+Vaccines,1,Generate: What kinds of vaccines were developed for in the twentieth century?,"In the twentieth century vaccines were developed for many diseases, such as influenza.",influenza
+Vaccines,1,Generate: What happened with more people vaccinated?,"As more and more people were vaccinated in the 20th century, the spread of disease and number of deaths decreased.",20th century
+Vaccines,0,Generate: What causes some diseases to be eradicated?,Today some diseases have been eradicated because of worldwide vaccinations.,worldwide vaccinations
+Polio,1,Generate: What is poliomyelitis?,"Poliomyelitis, also known as polio, is an infectious disease that can cause paralysis or even death in a small percentage of people.",polio
+Polio,0,Generate: What is the cause of polio?,Polio is caused by the poliovirus.,poliovirus
+Polio,1,Generate: Where does the poliovirus typically invade the host's cells?,The poliovirus typically invades the host’s cells in the throat and intestinal tract to reproduce and grow.,poliovirus
+Polio,1,Generate: Is polio highly contagious?,Polio is highly contagious.,Polio
+Polio,1,Generate: How is polio spread??,"Polio is spread by an infected person’s coughs, sneezes or contact with an infected person’s stool.",sneezes
+Polio,1,Generate: What are the symptoms of polio?,Polio is notable because over 70% of infected patients experience no symptoms. About 24% of people who are infected with polio have minor flulike symptoms. Less than 5% of people infected with polio develop stiffness in the back or legs. Less than 1% of people infected with polio develop paralysis of the limbs. A very small percentage of the people who develop paralysis as a result of a polio infection develop paralysis in the respiratory muscles and ultimately die.,70%
+Polio,0,Generate: What percentage of people who are infected with polio have minor flu symptoms?,About 24% of people who are infected with polio have minor flulike symptoms.,24%
+Polio,0,Generate: How much of people infected with polio develop stiffness in the back or legs?,Less than 5% of people infected with polio develop stiffness in the back or legs.,5%
+Polio,0,Generate: What percentage of people infected with polio develop paralysis of the limbs?,Less than 1% of people infected with polio develop paralysis of the limbs.,1%
+Polio,1,Generate: Can polio infection causes paralysis in the respiratory muscles?,A very small percentage of the people who develop paralysis as a result of a polio infection develop paralysis in the respiratory muscles and ultimately die.,polio
+Polio,1,Generate: Is it possible to spread polio by a patient without symptoms?,"If a person is infected with polio, they may spread the disease even if they do not show any symptoms.",polio
+Polio,0,Generate: When did the polio outbreak occur?,The polio disease had many outbreaks in the United States in the 19th and first half of the 20th century.,19th
+Polio,1,Generate: What has polio been virtually eliminated through?,"Through a widespread vaccination campaign, polio has been virtually eliminated.",polio
+SmallpoxPoster,1,Generate: What is smallpox?,Smallpox is a viral infection.,Smallpox
+SmallpoxPoster,1,Generate: What are the symptoms of smallpox?,"The symptoms of smallpox are vomiting, diarrhea, and severe rash.",smallpox
+SmallpoxPoster,0,Generate: What is the way to treat or prevent smallpox?,The way to treat or prevent smallpox is with vaccination.,vaccination
+Viral-versus-Bacterial-Reproduction,1,Generate: Can bacteria and viruses reproduce?,"Bacteria and viruses have different methods of reproducing. Bacteria are able to reproduce on their own, while viruses are unable to reproduce independently.",Bacteria and viruses
+Viral-versus-Bacterial-Reproduction,0,Generate: Bacteria can reproduce through what?,Bacteria can reproduce through asexual and sexual reproduction.,asexual and sexual reproduction
+Viral-versus-Bacterial-Reproduction,0,Generate: How many cells does a bacterium's cell split into?,"A bacterium's cell splits into two cells, which are exact clones of the original cell during asexual reproduction.",two
+Viral-versus-Bacterial-Reproduction,1,Generate: How does sexual reproduction of bacteria work?,Sexual reproduction of bacteria involves two cells sharing genetic information and producing a genetically different offspring.,two
+Viral-versus-Bacterial-Reproduction,1,Generate: Are bacteria able to reproduce on their own?,Bacteria are able to reproduce on their own.,Bacteria
+Viral-versus-Bacterial-Reproduction,1,Generate: Are viruses able to reproduce independently?,Viruses are unable to reproduce independently.,Viruses
+Viral-versus-Bacterial-Reproduction,1,Generate: What is a virus made up of?,A virus is simply genetic material in a membrane.,A virus
+Viral-versus-Bacterial-Reproduction,1,Generate: Do viruses have the mechanisms to reproduce on their own?,Viruses do not have the mechanisms to reproduce on their own.,Viruses
+Viral-versus-Bacterial-Reproduction,0,Generate: What does a virus use to reproduce itself?,A virus will use the reproduction mechanism of the host cell to reproduce itself.,the reproduction mechanism of the host cell
+FordDialog,1,Generate: Is a virus a type of pathogen?,Viruses are a type of pathogen.,Viruses
+FordDialog,1,Generate: What do viruses need to survive?,"Viruses need a host for survival, can cause illness, and spread between people.",Viruses
+FordDialog,0,Generate: What are the smallest type of pathogen?,Viruses are the smallest type of pathogen.,Viruses
+FordDialog,0,Generate: How large are viruses?,"Viruses are smaller than 200 nanometers in size, which means they are extremely tiny.",200 nanometers
+FordDialog,1,Generate: What shapes do viruses have?,"Viruses come in lots of strange shapes like skinny sticks, looped strings, polyhedrols, spiky orbs, bricks, bricks with round corners, and lunar landing pods.",Viruses
+FordDialog,1,Generate: What type of material do virus structures have?,Virus structures have a capsid and genetic material.,capsid and genetic material
+FordDialog,1,Generate: Are viruses cells?,"Viruses are not cells, so they have a very different structure than cells.",Viruses
+FordDialog,1,Generate: Are viruses alive?,Viruses are not alive.,Viruses
+FordDialog,1,Generate: Can viruses reproduce on their own?,"Viruses can't reproduce on their own, they can't respond to their environment, and they don't grow.",Viruses
+FordDialog,1,Generate: Is a feline immunodeficiency virus able to affect to humans?,Feline immunodeficiency virus is a virus that affects cats but not humans.,cats
+All-About-Bacteria - All-About-Bacteria,1,Generate: Where can we find bacteria?,Bacteria are tiny living organisms that are found everywhere.,Bacteria
+All-About-Bacteria - All-About-Bacteria,1,Generate: Can we see bacteria?,You have to use a microscope to see bacteria.,a microscope
+All-About-Bacteria - All-About-Bacteria,0,Generate: Where are Bacteria found?,Bacteria are found everywhere in the world and even inside other living things.,everywhere
+All-About-Bacteria - All-About-Bacteria,0,Generate: How many Bacteria are identified?,Bacteria come in several different shapes and that is how many of them are identified.,how many
+All-About-Bacteria - All-About-Bacteria,1,Generate: What is cocci?,Bacteria called cocci are shaped like little round balls.,cocci
+All-About-Bacteria - All-About-Bacteria,1,Generate: Do some cocci group together?,"Some cocci live all by themselves, but some cocci group together like beads on a string (streptococci) or in clumps like grapes (staphylococci).",clumps
+All-About-Bacteria - All-About-Bacteria,1,Generate: Are there rod-shaped bacteria?,"Some bacteria are rod-shaped, like little hot dogs.",bacter
+All-About-Bacteria - All-About-Bacteria,0,Generate: Bacteria that are rod-shaped are called what?,Bacteria that are rod-shaped are called bacilli.,bacilli
+All-About-Bacteria - All-About-Bacteria,1,Generate: What are some bacteria like little spirals called?,Some bacteria are like little spirals which are called spirilli.,spirilli
+All-About-Bacteria - All-About-Bacteria,1,Generate: Can bacteria move?,Some bacteria have tails and can swim through liquids!,liquids
+All-About-Bacteria - All-About-Bacteria,1,Generate: What can give you a clue about the names of bacteria?,The names of some bacteria can give you a clue about their shape.,bacteria
+All-About-Bacteria - All-About-Bacteria,1,Generate: Are bacteria all bad?,"Many people think that bacteria are all bad, but there are many bacteria that are actually good for you.",bad
+All-About-Bacteria - All-About-Bacteria,1,Generate: Are bacteria able to improve our health?,You actually couldn’t be healthy without some types of bacteria.,bacteria
+All-About-Bacteria - All-About-Bacteria,0,Generate: Bacteria on your skin helps keep the number of good and bad bacteria in balance so you don’t get what?,Bacteria on your skin help keep the number of good and bad bacteria in balance so you don’t get rashes and pimples.,rashes and pimples
+All-About-Bacteria - All-About-Bacteria,1,Generate: How do bacteria inside your intestines help us?,Bacteria inside your intestines help you digest food and fight off other harmful bacteria.,intestines
+All-About-Bacteria - All-About-Bacteria,0,Generate: What is a tasty way to help keep the right amount of good bacteria?,"A tasty way to help keep the right amount of good bacteria is to eat foods like milk, ice cream, yogurt, and cheese.","eat foods like milk, ice cream, yogurt, and cheese"
+KimDialog,0,Generate: What are the main characteristics of pathogens?,"The main characteristics of pathogens are that they make people ill, they require hosts, and can spread from one host to another.",they make people ill
+KimDialog,0,Generate: What are agents that can change the genetic information of organisms?,"Mutagens are agents that can change the genetic information, like DNA, of organisms.",Mutagens
+KimDialog,0,Generate: What do some mutagens cause?,"Some mutagens cause cancer, making them carcinogens as well.",carcinogens
+KimDialog,1,Generate: Can mutagens spread from person to person?,Mutagens cannot spread from person to person like pathogens.,pathogens
+KimDialog,0,Generate: What are agents that promote or facilitate cancer?,Carcinogens are agents that promote or facilitate cancer.,Carcinogens
+KimDialog,1,Generate: Can Carcinogens spread from one person to the next?,Carcinogens cannot spread from one person to the next like pathogens.,pathogens
+Microbe-Comparison,1,"Generate: Are bacteria, fungi, parasites and viruses different?","Bacteria, fungi, parasites, and viruses all have unique characteristics.",unique characteristics
+Microbe-Comparison,1,Generate: How does the majority of bacteria take in nutrients?,The majority of bacteria take in nutrients through unique paths such as absorbing light or decomposing elements in their environments.,absorbing light or decomposing elements
+Microbe-Comparison,1,Generate: What are fungi?,"Fungi are a kingdom of organism that is made up of hyphae, or long filaments, which absorb nutrients from the environment.",hyphae
+Microbe-Comparison,1,Generate: What are parasites?,Parasites are small microorganisms that get their nutrients from a host organism and typically do harm to the host.,Parasites
+Microbe-Comparison,0,Generate: What are the smallest microbes?,Viruses are the smallest microbes and require a host organism to reproduce.,Viruses
+Microbe-Comparison,1,Generate: What kinds of microbes cause infectious diseases?,"Bacteria, fungi, parasites, and viruses are all known to cause infectious diseases.",infectious diseases
+Microbe-Comparison,1,"Generate: How to treat and prevent bacteria, parasites, and viruses?","Bacteria, fungi, parasites, and viruses must each be handled accordingly with a specific method of treatment and prevention.",fungi
+Storing-Food,0,Generate: What is the cause of infectious diseases?,Many infectious diseases are the result of contaminated food.,contaminated food
+Storing-Food,0,Generate: What can be reduced through proper handling and preparation of food?,"Through proper handling and preparation of food, the number of food borne illnesses can be decreased.",the number of food borne illnesses
+Storing-Food,0,Generate: How many deaths are caused by airborne food?,"The Centers for Disease Control and Prevention states airborne food ailments cause about 325,000 hospitalizations and 5,200 deaths nationwide each year. Food safety starts at the grocery store.","5,200"
+Storing-Food,0,Generate: Where does food safety start?,"The Centers for Disease Control and Prevention states airborne food ailments cause about 325,000 hospitalizations and 5,200 deaths nationwide each year. Food safety starts at the grocery store.",grocery store
+Storing-Food,1,Generate: What should you do when buying raw meat?,"When buying raw meat, keep it separate from other food while it is in the shopping cart and grocery bag.",keep it separate from other food while it is in the shopping cart and grocery bag
+Storing-Food,1,Generate: How should we avoid to handle raw meat?,Try to prevent meat drippings from falling on other food items.,prevent meat drippings from falling
+Storing-Food,1,Generate: How long do we not allow refrigerated and freezer items to be out of the cold?,Do not allow refrigerated and freezer items to be out of the cold for more than two hours.,two hours
+Storing-Food,0,Generate: How can bacteria begin to grow on raw meat products?,Bacteria can begin to grow on raw meat products if kept out of the cold for too much time.,if kept out of the cold for too much time
+Storing-Food,1,"Generate: When cooking, how can we avoid cross contamination of raw meat?","When cooking, use separate utensils for raw meat to avoid cross contamination.",cross contamination
+Storing-Food,1,Generate: How can we reduce foodborne illnesses?,"If food safety rules are followed, the number of foodborne illnesses will be reduced.",food safety rules
+RobertDialog,1,Generate: Can bacteria be pathogens?,Bacteria can be pathogens.,pathogens
+RobertDialog,1,Generate: Why do bacteria need a host?,"Bacteria need a host, can spread from person to person, and cause illness.",a host
+RobertDialog,1,Generate: Are all bacteria pathogens?,Not all bacteria are pathogens.,pathogens
+RobertDialog,1,Generate: Are bacteria harmless to humans?,Many bacteria are harmless to humans.,bacteria
+RobertDialog,1,Generate: What is the size of a bacteria?,"Bacteria are the smallest type of living organism, as small as 200 nanometers.",200 nanometers
+RobertDialog,1,Generate: What shape ca bacteria have?,"Bacteria can be spiral-shaped, rod-shaped, or round.","spiral-shaped, rod-shaped, or round"
+RobertDialog,1,Generate: Bacteria are what type of organisms?,Bacteria are single-celled organisms without nuclei.,single-celled
+RobertDialog,1,Generate: What type of structures do bacteria have?,"Structurally, bacteria have a cell wall and genetic material.",a cell wall
+RobertDialog,1,Generate: Are all bacteria pathogens?,Not all bacteria are pathogens.,pathogens
+RobertDialog,0,Generate: How many different types of bacteria are in your mouth?,There are twenty-five different types of bacteria in your mouth alone!,twenty-five
+Viruses,0,Generate: What is a virus?,A virus is a microscopic infective agent that depends on a host to receive nutrients to reproduce.,a microscopic infective agent
+Viruses,0,Generate: What does a virus contain?,"Unlike bacteria, which are complex single-cell organisms, viruses only contain genetic material surrounded by a protein coating.",a protein coating
+Viruses,1,Generate: When can viruses reproduce other viruses?,Viruses can only reproduce other viruses once it has nutrients.,once it has nutrients
+Viruses,0,Generate: What virus can attach itself to the E. coli bacteria?,The T4 bacteriophage virus can attach itself to the E. coli bacteria and inject genetic material directly into it.,T4 bacteriophage virus
+Viruses,0,Generate: What type of material is quickly reproduced with a special code for producing more and more similar viruses?,The injected genetic materials from a virus quickly reproduce with a special code for producing more and more similar viruses.,injected genetic materials
+Viruses,1,Generate: What happens when a virus injects genetic material for reproduction?,"As many viruses are produced after a virus injects genetic material with a code for reproduction, the original bacteria cell explodes.",the original bacteria cell explodes
+Viruses,1,Generate: What happens after the host bacteria cell explodes?,"After the host bacteria cell explodes, these viruses move about to more bacteria and continue to reproduce in new bacteria hosts.",bacteria
+Viruses,1,Generate: What does a virus do to reproduce?,Viruses cannot reproduce on their own; they must use other bacteria host to reproduce.,Viruses cannot reproduce on their own
+Viruses,1,Generate: Why are some bacteria very deadly?,Some strains of E. coli bacteria are very deadly because they may host viruses.,E. coli bacteria
+Viruses,1,Generate: How does transmission of E. Coli occur?,"Transmission of E. Coli usually occurs through contaminated food or water, following contact with animals, and occasionally from person to person.",contaminated food or water
+Viruses,1,Generate: Are there differences between viruses and bacteria?,"There are several differences between viruses and bacteria. The first major difference between virus and bacteria is size. Viruses are much smaller than bacteria cells. Second, bacteria are alive and reproduce on their own, whereas viruses are not considered alive and they need to have hosts to reproduce.",bacteria
+Viruses,0,Generate: What is a major difference between virus and bacteria?,The first major difference between virus and bacteria is size.,size
+Viruses,1,Generate: Are viruses smaller than bacteria cells?,Viruses are much smaller than bacteria cells.,Viruses
+Viruses,1,Generate: What is a difference between virus and bacteria?,"A difference between virus and bacteria is that bacteria are alive and reproduce on their own, whereas viruses are not considered alive and they need to have hosts to reproduce.",viruses
+Viruses,1,Generate: Can bacteria be helpful?,Some bacteria can often be helpful.,bacteria
+Viruses,0,Generate: What helps the environment through decomposition of waste products?,Some bacteria help the environment through the decomposition of waste products.,bacteria
+Viruses,1,Generate: What is a recent discovery about viruses?,"Recently, scientists have discovered a way to change the genetic make-up of some viruses.",genetic
+Viruses,0,Generate: What type of disease is a genetically modified virus used to fight?,A genetically changed virus is used as a type of drug to fight diseases such as cancer.,cancer
+Viruses,1,Generate: Can viruses be useful?,"While viruses cause many diseases, perhaps future research can make viruses useful in fighting illness.",viruses
+Pasteurization,1,Generate: What is pasteurization?,"Pasteurization is the process in which raw milk is heated to a given temperature, for a set amount of time, and then quickly cooled.",Pasteurization
+Pasteurization,1,Generate: What is a process to kill harmful bacteria in raw milk and dairy products?,Pasteurization is an important process because raw milk and dairy products made from raw milk may contain harmful bacteria.,Pasteurization
+Pasteurization,0,Generate: What can be found in raw milk?,"Salmonella, E. coli and Listeria may be found in raw milk.","Salmonella, E. coli and Listeria"
+Pasteurization,1,"Generate: How can we kill Salmonella, E. coli, Listeria, and other harmful bacteria?","Salmonella, E. coli, Listeria, and other harmful bacteria are killed during the heating process of pasteurization.",pasteurization
+Pasteurization,1,Generate: Does the heating process of pasteurization affect the nutritional value of milk?,The heating process of pasteurization does not significantly affect the nutritional value of milk.,milk
+BotulismPoster,0,Generate: What is botulism?,Botulism is a bacterial infection.,bacterial infection
+BotulismPoster,0,Generate: What are the symptoms of botulism?,"The symptoms of botulism are muscle paralysis, vomiting, nausea, and stomach cramps.","muscle paralysis, vomiting, nausea, and stomach cramps"
+BotulismPoster,0,Generate: What is the way to treat botulism?,The way to treat or prevent botulism is with an antitoxin.,an antitoxin
+Carcinogen,0,Generate: What is a substance that is directly involved in causing cancer called?,Any substance that is directly involved in causing cancer is called a carcinogen.,a carcinogen
+Carcinogen,0,Generate: Carcinogens cause problems by causing what?,Carcinogens cause problems by damaging the DNA of organisms or disturbing cells' internal processes.,damaging the DNA of organisms
+Carcinogen,1,Generate: What are common types of carcinogens?,"Unfortunately, there are many different kinds of carcinogens, including certain types of pollution, medical treatments, and building materials.",carcinogens
+Carcinogen,1,Generate: What can be considered as carcinogenic?,Some types of radiation are considered carcinogenic.,carcinogenic
+Carcinogen,1,Generate: What does the CERCLA classify as carcinogens?,"The Comprehensive Environmental Response, Compensation, and Liability Act (CERCLA) classifies all radionuclides as carcinogens.","The Comprehensive Environmental Response, Compensation, and Liability Act"
+Carcinogen,1,Generate: What are radionuclides?,"Radionuclides are unstable atoms that have excess energy, which may be emitted as alpha, beta, gamma, or neutron radiation.","alpha, beta, gamma, or neutron radiation"
+Carcinogen,0,Generate: What is the strength of radionuclides based on?,"The strength of radionuclides is based on the type of radiation emitted, exposure, and penetration.","radiation emitted, exposure, and penetration"
+Carcinogen,0,Generate: What types of radiation are not considered carcinogenic?,"There are types of radiation that are not considered carcinogenic, such as radio waves, infrared radiation, and visible light.","radio waves, infrared radiation, and visible light"
+Carcinogen,2,Generate: What is another example of carcinogens?,"There are many additional examples of carcinogens beyond radiation. For example, inhaled asbestos, tobacco smoke, and even some dioxins are carcinogenic.",radiation
+Carcinogen,1,Generate: What can be examples of carcinogenic?,"Inhaled asbestos, tobacco smoke, and even some dioxins are carcinogenic.",asbestos
+Carcinogen,0,Generate: During what decade has tobacco been classified as carcinogenic?,"Since the 1930s, tobacco smoke has been classified as carcinogenic.",1930s
+Carcinogen,1,Generate: Are viruses considered as carcinogens?,Some viruses are listed as carcinogens.,carcinogens
+Carcinogen,0,Generate: What type of viruses are listed as carcinogens?,"Hepatitis B, C and some human papilloma viruses are listed as carcinogens.",papilloma
+Carcinogen,1,Generate: What was the first physical change caused by carcinogens?,Tumors were the first identified physical change caused by carcinogens.,carcinogens
+Carcinogen,1,"Generate: What was the name of the word “cancer"" from?","Tumors were actually studied by Hippocrates, and he named them “karkinos,” the word from which “cancer” is derived.",karkinos
+Immunization,0,Generate: What is one way to avoid disease?,One way to avoid disease is to get immunized.,get immunized
+Immunization,0,Generate: What means that a person has built up resistance against a given disease?,"Being immune means that a person has built up resistance, or antibodies, against a given disease.",immune
+Immunization,0,Generate: What is the most common way to be immunized?,The most common way to be immunized is to visit your doctor or health care provider and request a vaccine.,visit your doctor or health care provider and request a vaccine
+Immunization,1,Generate: What is a vaccine?,"A vaccine is typically a shot that contains a weakened or dead form of the infectious disease, or “germ.” The body is tricked into thinking that a germ has infiltrated it, and the body immediately begins making antibodies to fight against it.",A vaccine
+Immunization,1,Generate: What are antibodies?,Antibodies are proteins in the blood that can detect an outside invader to the body.,proteins in the blood
+Immunization,0,Generate: What is produced when an antibody is alerted to outside attack from germs?,"As soon as an antibody is alerted to outside attack from germs, chemicals are produced that “bind” the invader.",chemicals
+Immunization,0,"Generate: When an antibody responds to an invading germ, what is the result of the invading germ?","When an antibody responds to an invading germ, the result is a neutralized germ with no power to harm the normal cells of the body. Eventually, the invading germ is destroyed.",neutralized
+Immunization,0,Generate: What happens when an antibody reacts to an invading germ?,"When an antibody responds to an invading germ, the result is a neutralized germ with no power to harm the normal cells of the body. Eventually, the invading germ is destroyed.",destroyed
+Immunization,0,Generate: How many doses of a vaccine do the body need?,Sometimes the body needs several doses of a vaccine over an extended period of time in order to build up enough resistance.,several doses of a vaccine over an extended period of time
+Immunization,0,Generate: What happens after immunization?,"After immunization, the body’s cells develop a memory of the germ so that if they encounter the germ again, they will immediately begin producing the appropriate antibodies and destroy the germ.",the body’s cells
+Immunization,0,Generate: What type of programs can be used to control disease?,"Through widespread vaccination programs, disease can be controlled and eventually eliminated.",widespread vaccination programs
+Immunization,0,Generate: What was eliminated through vaccination programs?,Smallpox was eliminated through worldwide vaccination programs.,Smallpox
+Immunization,0,Generate: What type of diseases are becoming more rare in the US?,"As a result of immunization, infectious diseases such as polio are becoming more rare in the United States.",infectious diseases
+Immunization,0,Generate: What is important to keep up the level of immunity in society?,It is important to get vaccinations to keep up society’s level of immunity.,vaccinations
+Immunization,1,Generate: How can we reduce severe infectious diseases?,"The more people are vaccinated, the less likely society will face severe infectious diseases that make us very ill or even cause death.",vaccinated
+Measles,1,Generate: What is measles?,"Measles, also known as rubeola, is a respiratory infection.",rubeola
+Measles,0,Generate: What is the cause of a measles infection?,A measles infection is caused by the measles virus.,measles virus
+Measles,1,Generate: Why does a measles virus infiltrates cells in the human body?,"Since it is a virus, measles infiltrates cells in the human body in order to reproduce and grow.",measles
+Measles,1,Generate: Can measles infect other animals except humans?,Measles is an infection of humans and not other animals.,Measles
+Measles,1,Generate: Where does the measles virus usually infect cells?,The measles virus typically infects cells in the throat and lungs.,the throat and lungs
+Measles,0,Generate: What is the cause of the spread of the measles virus?,An person infected with the measles viruses spreads the virus through coughing or sneezing.,coughing or sneezing
+Measles,0,Generate: What are some of the symptoms of measles?,"Some of the symptoms of measles are a red rash, fever, cough, and runny nose.","a red rash, fever, cough, and runny nose"
+Measles,1,Generate: When do symptoms of measles appear?,"It may take one to two weeks for the symptoms of measles to appear, yet the infected person is contagious four days before a rash appears.",four
+Measles,0,Generate: What are some of the complications associated with measles?,"Measles may lead to many complications, such as diarrhea, ear infection, pneumonia, encephalitis or even death.","diarrhea, ear infection, pneumonia, encephalitis or even death"
+Measles,1,Generate: How to eliminate measles?,"Measles has been virtually eliminated in the United States, the rest of North America, South America and some other areas through widespread vaccinations.",vaccinations
+Measles,1,Generate: Where does measles remain?,"Unfortunately, measles remains prevalent in Africa and Asia.",measles
+Measles,1,Generate: Is there a specific treatment for measles?,"There is no specific treatment for measles, but the symptoms may be treated to provide some comfort for the sick.",measles
+Measles,0,Generate: What is very dangerous for pregnant women?,Measles is very dangerous to pregnant women.,Measles
+Measles,1,Generate: Is there a vaccine to prevent measles?,Scientists have discovered a vaccine to prevent measles and it is recommended to prevent serious damage to unborn babies.,measles
+VirusStructurePoster,0,Generate: What is the outer coat of a virus called?,The outer coat of a virus has a hard protein shell called a capsid that protects the virus and plays an important role in reproduction.,capsid
+VirusStructurePoster,0,Generate: What is the inner core of a virus made of?,The inner core of a virus is made of genetic material.,genetic material
+Ebola,1,Generate: What are Ebola and Marburg fevers?,"Ebola and Marburg fevers are severe diseases, which often lead to death.",Ebola and Marburg fevers
+Ebola,1,Generate: Can we distinguish Ebola and Marburg?,Ebola and Marburg are clinically almost indistinguishable from one another.,Ebola and Marburg
+Ebola,1,Generate: What is Marburg hemorrhagic fever?,Marburg hemorrhagic fever was first identified in 1967 after workers in Europe developed hemorrhagic (bleeding) sickness after working with tissue from green monkeys.,hemorrhagic
+Ebola,0,Generate: What caused the Marburg hemorrhagic fever outbreak?,Researchers determined that a virus in the Filoviridae family caused the Marburg hemorrhagic fever outbreak.,a virus in the Filoviridae family
+Ebola,0,Generate: What type of fevers were seen in Africa?,Highly lethal hemorrhagic fevers were seen in Africa and the cause was found to be newly-identified members of the Filoviridae family.,Highly lethal hemorrhagic fevers
+Ebola,1,Generate: Can the Ebola and Marburg viruses be transmitted to a human?,"The Ebola and Marburg viruses, once transmitted to a human, can be spread between people by contact.",The Ebola and Marburg viruses
+Ebola,1,Generate: How can a health car worker get an Ebola or Marburg infection?,"A health care worker could acquire an Ebola or Marburg infection by handling blood, or other body fluids, from a person already sick with Ebola.",Ebola or Marburg
+Ebola,1,Generate: How long after being infected do fevers associated with Ebola and Marburg appear?,Fevers associated with Ebola and Marburg do not appear until several days after being infected.,several days
+Ebola,0,Generate: What are the symptoms of Ebola and Marburg fevers?,"The symptoms of Ebola and Marburg include fever, aches, and even bleeding.","fever, aches, and even bleeding"
+Ebola,1,Generate: Is difficult to diagnose Ebola or Marburg fevers?,The diagnosis of Ebola or Marburg is difficult since the symptoms are so similar to many other infectious diseases.,Ebola or Marburg
+Ebola,1,Generate: What can be done for suspected causes until tests can confirm Ebola or Marburg infection?,Doctors would isolate suspected causes until tests can confirm this viral infection.,tests
+Ebola,1,Generate: Are there drugs to treat Ebola or Marburg fevers?,There are no drugs to treat Ebola or Marburg fevers.,Ebola or Marburg fevers
+Ebola,1,Generate: What are the treatment for people sick with Ebola or Marburg?,"People sick with Ebola or Marburg are provided support in isolation, such as intravenous fluids and medicine for headaches, fever, and other symptoms.",Ebola or Marburg
+Archae-and-Eubacteria - Archae-and-Eubacteria,0,Generate: How many living organisms are in the world?,The world is full of millions of living organisms.,millions
+Archae-and-Eubacteria - Archae-and-Eubacteria,1,Generate: How can we classify organisms?,Organisms have different physical and genetic features by which they may be classified.,physical and genetic
+Archae-and-Eubacteria - Archae-and-Eubacteria,0,Generate: What is one segment of living organisms?,One segment of living organisms is bacteria.,bacteria
+Archae-and-Eubacteria - Archae-and-Eubacteria,1,Generate: How do we classify bacteria?,"Scientists have questioned how to classify bacteria. Historically, scientists have classified all bacteria in the Kingdom Monera, which was divided into 2 sections, archae and eubacteria.",how to classify bacteria
+Archae-and-Eubacteria - Archae-and-Eubacteria,0,Generate: What is the first big category to classify bacteria?,The first big category to classify bacteria is known as a kingdom.,kingdom
+Archae-and-Eubacteria - Archae-and-Eubacteria,1,Generate: How have scientists classified all bacteria?,"Historically, scientists have classified all bacteria in the Kingdom Monera.",Kingdom Monera
+Archae-and-Eubacteria - Archae-and-Eubacteria,0,Generate: How many sections was the Kingdom of Monera divided into?,"The Kingdom of Monera was divided into 2 sections, archae and eubacteria.",2
+Archae-and-Eubacteria - Archae-and-Eubacteria,1,Generate: Who discovered great genetic variations between Archie and eubactera?,"In the 1970s, Carl Woese discovered great genetic variations between archae and eubacteria, so taxonomists abolished the Kingdom Monera and established two separate kingdoms, Archae and Eubacteria.",two
+Archae-and-Eubacteria - Archae-and-Eubacteria,1,Generate: How different archae are from eubacteria?,Archae have different material in the cell wall that make them unique from eubacteria.,eubacteria
+Archae-and-Eubacteria - Archae-and-Eubacteria,1,Generate: Why are archae calledextremophiles?,Archae are called extremophiles because they live in extreme conditions where most organisms cannot survive.,extremophiles
+Archae-and-Eubacteria - Archae-and-Eubacteria,0,Generate: What is a waste byproduct produced by methanogens?,Methanogens produce methane gas as a waste byproduct and can be found in the guts of grass eating animals and in marshlands.,methane gas
+Archae-and-Eubacteria - Archae-and-Eubacteria,0,Generate: Halophiles live in environments with what?,Halophiles live in environments with high salt concentrations.,high salt concentrations
+Archae-and-Eubacteria - Archae-and-Eubacteria,0,Generate: What is one type of archae?,One type of archae is a thermophile and is a type of microorganism that lives in areas of high temperatures.,thermophile
+Archae-and-Eubacteria - Archae-and-Eubacteria,0,Generate: What are most bacteria classified as?,Most bacteria are classified as eubacteria.,eubacteria
+Archae-and-Eubacteria - Archae-and-Eubacteria,1,Generate: How do eubacteria grow and take in nutrients?,Eubacteria grow and take in nutrients in different ways.,Eubacteria
+Archae-and-Eubacteria - Archae-and-Eubacteria,0,Generate: What are the materials that bacteria need to live and grow?,Nutrients are the materials that bacteria need to live and grow.,Nutrients
+Archae-and-Eubacteria - Archae-and-Eubacteria,0,Generate: What are bacteria that get their energy from light?,Photoautotrophs are bacteria that get their energy from light.,Photoautotrophs
+Archae-and-Eubacteria - Archae-and-Eubacteria,0,Generate: What do saprophytes get their energy by doing?,Saprophytes get their energy by decomposing things.,decomposing things
+Archae-and-Eubacteria - Archae-and-Eubacteria,1,Generate: Do bacteria need oxygen?,Some bacteria do not need oxygen while others need oxygen to survive.,oxygen
+Archae-and-Eubacteria - Archae-and-Eubacteria,1,Generate: Is oxygen essential for bacteria to live? group of bacteria live in the presence of?,One group of bacteria can live in the presence of oxygen or can continue to live even if oxygen is not present.,oxygen
+Archae-and-Eubacteria - Archae-and-Eubacteria,1,Generate: What pH do bacteria live in?,Some bacteria live in neutral pH while others live in a slightly more acidic environment.,pH
+Archae-and-Eubacteria - Archae-and-Eubacteria,1,Generate: How can bacteria live in acidic conditions?,Bacteria that live in more acidic conditions are able to keep the pH in their bodies closer to a neutral pH.,acidic
+BacterialReproductionPoster,1,Generate: How do bacteria reproduce?,"Bacteria reproduce asexually by binary fission, which results in the production of two cells exactly like the parent cell.",asexually
+Pneumonia,0,Generate: What are bacteria found in the upper respiratory system?,Streptococcus Pneumoniae are bacteria found in the upper respiratory system.,Streptococcus Pneumoniae
+Pneumonia,1,Generate: How severe is the infection caused by Streptococcus Pneumoniae?,The severity of the bacterial infection caused by Streptococcus Pneumoniae ranges from minor ear infections to fatal meningitis.,Streptococcus Pneumoniae
+Pneumonia,1,Generate: Who are the most at risk with the infection caused by Streptococcus Pneumoniae?,"The infection caused by Streptococcus Pneumoniae can affect children and adults, but the elderly and very young are the most at risk.",Streptococcus Pneumoniae
+Pneumonia,0,Generate: How many people die each year from pneumococcal infections?,"According to the World Health Organization, over a million people die from pneumococcal infections each year.",over a million
+Pneumonia,1,Generate: In what ways do pneumococcus kill people?,"Pneumonia, meningitis, and sepsis are the three most common ways that pneumococcus kills people.",pneumococcus
+Pneumonia,0,Generate: What can kill a person as the infection overwhelms the immune system?,Sepsis can kill a person as the infection overwhelms the immune system.,Sepsis
+Pneumonia,1,Generate: What does a meningitis infection cause?,A meningitis infection causes damage to the spinal cord and brain.,A meningitis infection
+Pneumonia,1,Generate: How do we diagnose pneumonia?,"Pneumonia is diagnosed in several ways. In some cases, a doctor can use a stethoscope and observe breathing rates to diagnose pneumonia.",Pneumonia
+Pneumonia,0,Generate: What can a doctor use to diagnose pneumonia?,"In some cases, a doctor can use a stethoscope and observe breathing rates to diagnose pneumonia.",stethoscope
+Pneumonia,0,Generate: What is the most precise way to diagnose pneumonia?,The most precise way to diagnose pneumonia is by using a chest X-ray.,a chest X-ray
+Pneumonia,0,Generate: Pneumonia is most often treated with what?,Pneumonia is most often treated with antibiotics.,antibiotics
+Pneumonia,1,Generate: How to treat pneumonia?,"Because bacteria have become more resistant to common antibiotics, more advanced and expensive antibiotics have to be prescribed to treat pneumonia.",pneumonia
+Pneumonia,1,Generate: Is there a vaccine for pneumonia?,A pneumococcal vaccine is currently given to all United States infants.,pneumococcal vaccine
+Pneumonia,1,Generate: How can we eliminate childhood pneumococcal diseases?,A widespread vaccination policy has basically eliminated childhood pneumococcal diseases.,pneumococcal diseases
+Pneumonia,1,Generate: How to reduce adult infection rates with pneumococcal bacteria?,"A decrease in childhood infections caused by pneumococcal bacteria has also decreased adult contact, thus reducing adult infection rates.",pneumococcal bacteria
+What-is-food-safety,0,Generate: How many Americans will get sick by eating contaminated food?,This year one in six Americans will get sick by eating contaminated food.,one in six
+What-is-food-safety,0,Generate: What is important to keep our food supply safe?,"Keeping our food supply safe by safely handling, preparing, and storing food is very important.",Keeping our food supply safe
+What-is-food-safety,1,Generate: What is food safety?,"The various techniques of keeping our food safe from contamination, pathogenic bacteria, viruses and chemicals is known as food safety.",food safety
+What-is-food-safety,1,Generate: How can pathogens enter the food supply?,"Pathogens enter the food supply at various points of food preparation such as cleaning, cooking or during storing the food.",Pathogens
+What-is-food-safety,1,Generate: What are the four food safety principles?,"There are four simple steps given by USDA Fight BAC campaign which is a food safety initiative designed to educate consumers about the four food safety principles ""clean, separate, cook, and chill"".",four
+What-is-food-safety,0,Generate: What is the goal of the USDA Fight BAC campaign?,The USDA Fight BAC campaign's goal is to provide consumers with information and resources to help them reduce the risk of food borne illness.,food borne illness
+What-is-food-safety,0,Generate: What steps do USDA recommend to prevent food borne illness at home?,"The USDA suggests four steps to help prevent food borne illness at home: clean, separate, cook and chill.","clean, separate, cook and chill"
+What-is-food-safety,0,Generate: What is the first step in the USDA Fight BAC campaigh?,"The first step in the USDA Fight BAC campaigh, clean, encourages people to wash their hands before, during and after handling the food.",clean
+What-is-food-safety,0,Generate: What is the second step in the USDA Fight BAC campaigh?,"The second step in the USDA Fight BAC campaigh, separate, encourages you to keeping raw meat separate from vegetables to avoid pathogens from one food migrating to another, or cross-contamination when preparing meals or even in the refrigerator.",cross-contamination
+What-is-food-safety,0,Generate: What is the third step in the USDA Fight BAC campaigh?,"The third step in the USDA Fight BAC campaigh, Cook, encourages us to use of food thermometer.",Cook
+What-is-food-safety,0,"Generate: What can make sure meat, poultry, fish and casseroles are cooked to a safe temperature?","Only a food thermometer can make sure meat, poultry, fish and casseroles are cooked to a safe internal temperature.",a food thermometer
+What-is-food-safety,0,Generate: What is the last step in the USDA Fight BAC campaigh?,"The last step in the USDA Fight BAC campaigh, chill, encourages you to chill leftover food within two hours of consumption and always thawing meat in the refrigerator.",chill
+EbolaPoster,1,Generate: What is Ebola?,Ebola is a viral infection.,Ebola
+EbolaPoster,1,Generate: What are the symptoms of Ebola?,"The symptoms of ebola are diarrhea, vomiting, and fever.",ebola
+EbolaPoster,1,Generate: What is a known way to treat or prevent Ebola?,There is no known way to treat or prevent ebola.,ebola
+Microbes,0,Generate: What are some examples of microbes?,"Examples of microbes are bacteria, fungi and protozoa.","bacteria, fungi and protozoa"
+Microbes,1,Generate: Are viruses included in the study of microbes?,"Many microbiologists include viruses in the study of microbes, even though viruses are unlike other microbes and are only able to reproduce when inside the cells of other organisms.",viruses
+Microbes,0,Generate: What are some examples of diseases caused by harmful microbes?,"Examples of diseases caused by harmful microbes are malaria, anthrax, and HIV.","malaria, anthrax, and HIV"
+Microbes,1,Generate: What causes Malaria?,Malaria is one of the most common infectious diseases and is caused by protozoan parasites of the genus Plasmodium.,Plasmodium
+Microbes,1,Generate: Can microbes be a virus?,Microbes can be a virus.,a virus
+Microbes,0,Generate: What is the name of the virus that causes the well known HIV disease?,Human Immunodeficiency Virus causes the well known HIV disease.,Human Immunodeficiency Virus
+Microbes,0,Generate: What is a type of bacteria that comes from spores?,"Anthrax disease is caused by Bacillus anthracis, a type of bacteria that comes from spores.",Bacillus anthracis
+Microbes,0,Generate: What type of microbes are the anthrax spores?,The anthrax spores are single celled microbes.,single
+Microbes,1,Generate: What do some harmful bacteria do?,"Unfortunately, some harmful microbes invade the human body.",microbes
+Microbes,1,Generate: What do viruses do for reproduction?,"While bacteria, fungi, and protozoa reproduce independently to cause harm, viruses must invade individual cells and then use the cell’s systems to reproduce and then harm their hosts.",to cause harm
+Microbes,0,Generate: What are two effective ways to combat harmful microbes?,Some microbiologists research ways to combat harmful microbes and have found that antibiotics and vaccines are two effective ways to do so.,antibiotics and vaccines
+Parasitic-Infections,0,Generate: What are organisms that can only live on or in a host organism?,"Parasites are organisms that can only live on, or in, a host organism from which it gets food or assistance in some life stage.",Parasites
+Parasitic-Infections,1,Generate: What parasites are responsible for most human diseases?,"According to the Centers for Disease Control and Prevention, most human diseases are caused by three sets of parasites: protozoa, helminthes, and ectoparasites.",three sets
+Parasitic-Infections,0,Generate: What type of organisms are protozoa?,Protozoa are single-celled organisms.,single-celled
+Parasitic-Infections,0,Generate: What are Helminthes?,Helminthes are worms.,worms
+Parasitic-Infections,1,Generate: What are ectoparasites?,Ectoparasites are lice and other arthropods.,lice
+Parasitic-Infections,1,Generate: Where do protozoa parasites live in?,Protozoa parasites often live in water.,water
+Parasitic-Infections,0,Generate: What can a drinking water infected with parasites cause?,Drinking water infected with parasites can cause diarrhea or a serious abscess to the human liver.,diarrhea
+Parasitic-Infections,1,Generate: How can parasitic worms enter the body?,Parasitic worms can enter the body through bare feet and poorly cooked meat.,bare feet and poorly cooked meat
+Parasitic-Infections,1,Generate: What are head lice?,"Head lice are actually small insects that attach themselves to hair, eyebrows, and eyelashes.",Head lice
+Parasitic-Infections,1,Generate: Do parasites cause illnesses?,"According to the National Institute of Allergy and Infectious Diseases, parasites cause many illnesses--and even deaths--in the tropical and subtropical areas of the world.",the National Institute of Allergy and Infectious Diseases
+Parasitic-Infections,0,Generate: What type of vaccines are there to prevent parasitic infections?,There are no vaccines to prevent many parasitic infections.,vaccines
+Parasitic-Infections,1,Generate: Are there effective drugs to kill parasites?,"Parasites are becoming more drug resistant, and even some of the most effective drugs are failing.",Parasites
+Parasitic-Infections,1,Generate: What should we do to treat parasites?,"Given the impacts of parasitic illness, there is a great need for developing new treatments as soon as possible.",parasitic illness
+Microscopes,0,Generate: When were Optical Microscopes invented?,Optical Microscopes were invented sometime during the 16th century.,16th
+Microscopes,0,Generate: What were invented to see objects too small to be seen by the unaided eye?,Optical microscopes were invented in order to see objects too small to be seen by the unaided eye.,Optical microscopes
+Microscopes,1,Generate: How can we see bacteria through an optical microscope? ,"Using a series of lenses to focus and enhance light, the special shape of the glass in an optical microscope can make objects that are the size of a bacteria cell appear large enough that you can watch the bacteria dividing.",a series of lenses
+Microscopes,0,Generate: When did Robert Hooke publish Micrographia?,The practice of looking at small things became popular after Robert Hooke published Micrographia in 1665. The illustrations were so amazing for the time that other scientists immediately became interested in studying small plants and animals.,1665
+Microscopes,0,Generate: What did Robert Hooke publish in 1665?,The practice of looking at small things became popular after Robert Hooke published Micrographia in 1665. The illustrations were so amazing for the time that other scientists immediately became interested in studying small plants and animals.,illustrations
+Microscopes,0,Generate: What are used in many fields of science to view the structure of small objects?,Optical Microscopes are used in many fields of science in order to view the structure of small objects or to make counts of small objects.,Optical Microscopes
+Microscopes,0,Generate: What are small objects that are observed by optical microscopes known as?,Small objects that are observed by optical microscopes are known as samples or specimen.,specimen
+Microscopes,0,Generate: The most relevant use of microscopes to everyday life is in what industry?,The most relevant use of microscopes to everyday life is in the food industry. Microscopes are used in food labs to examine everything you eat for health risks such as harmful bacteria and mold.,food
+Microscopes,0,Generate: Where are microscopes used?,The most relevant use of microscopes to everyday life is in the food industry. Microscopes are used in food labs to examine everything you eat for health risks such as harmful bacteria and mold.,food labs
+Microscopes,1,Generate: What is an example of using microscopes in cultured food like yogurt and cheese?,"In cultured food like yogurt and cheese, microscopes are used to count cells and make sure the right amounts of beneficial bacteria are in each serving.",bacteria
+Microscopes,1,Generate: What parts do microscopes have in common?,"There are several parts that all optical microscopes have in common. The piece of an optical microscope that you use to see the sample is called the eyepiece. In an optical microscope, the objective lenses are where the real power comes from.",optical microscopes
+Microscopes,0,Generate: What is the name of the piece of an optical microscope that you use to see the sample?,The piece of an optical microscope that you use to see the sample is called the eyepiece. ,eyepiece
+Microscopes,1,Generate: What is the eyepiece in an optical microscope?,They eyepiece in an optical microscope is basically a magnifying glass that can enlarge an image usually about 10 times.,10
+Microscopes,0,Generate: What part of microscope is used to focus the objective lenses?,The eyepiece in an optical microscope is arranged to focus the objective lenses.,optical microscope
+Microscopes,1,Generate: In what part of microscope are objective lenses where the real power comes from?,"In an optical microscope, the objective lenses are where the real power comes from.",optical microscope
+Microscopes,0,Generate: How many lenses are arranged in an optical microscope?,"In an optical microscope, generally three to four lenses are arranged in a way that they can enhance each other’s image by multiplying the magnification.",three to four
+Microscopes,0,Generate: How much magnification can optical microscopes have?,Using a method of complementary lens arrangement means that optical microscopes can have up to 1500 times magnification.,up to 1500 times magnification
+Microscopes,1,Generate: What are the parts of an optical microscope?,"Parts of an optical microscope include the eyepiece, objective lenses, tube, arm, and base.","eypiece, objective lenses, tube, arm, and base"
+Microscopes,1,Generate: What holds the eyepiece in an optical microscope?,"In an optical microscope, the tube holds the eyepiece, the arm supports the tube, and the base supports the entire microscope.","the tube holds the eyepiece, the arm supports the tube, and the base supports the entire microscope"
+Microscopes,1,Generate: How can an optical microscope focus the view?,"To see the specimen on the slide when using an optical microscope, there are two knobs that help with the focusing so anyone can see the same thing, regardless of their vision.",two knobs
+Microscopes,0,Generate: What are the knobs that are used to focus the view on an optical microscope called?,The knobs that on an optical microscope that are used to focus the view on the specimen are called the fine focus and coarse focus.,fine focus and coarse focus
+Microscopes,0,Generate: What is used to see the maximum amount of detail in an optical microscope?,"In an optical microscope, the coarse focus is used to find the object and the fine focus is used to see the maximum amount of detail.",the fine focus
+Microscopes,0,Generate: What is the part of the optical microscope that holds the specimen or slide called?,The part of the optical microscope that holds the specimen or slide is called the platform.,the platform
+Microscopes,1,Generate: What are objectives in some optical microscopes?,"Some optical microscopes can have multiple viewing settings, or also called objectives. These objectives located on a rotating support called a turret.",optical microscopes
+Microscopes,1,Generate: What is the objectives located on a rotating support called?,"Some optical microscopes can have multiple viewing settings, or also called objectives. These objectives located on a rotating support called a turret.",turret
+Microscopes,1,Generate: Why is a bright light source needed in an optical microscope?,"In an optical microscope, a bright light source is needed for clear, visible viewing. Usually this light source is a lightbulb located below the stage and is called the illuminator.",optical microscope
+Microscopes,0,Generate: What is a lightbulb called in an optical microscope?,"In an optical microscope, a bright light source is needed for clear, visible viewing. Usually this light source is a lightbulb located below the stage and is called the illuminator.",illuminator
+Microscopes,0,Generate: What were the only type of microscopes until the 20th century?,Optical microscopes were the only type of microscopes until the 20th century.,Optical microscopes
+Microscopes,1,Generate: What was the name of the device using electron streams in vacuums in the late 19th and early 20th centuries?,Research into electron streams in vacuums in the late 19th and early 20th centuries led to a device called the cathode ray tube.,cathode ray tube
+Microscopes,1,Generate: What does do a cathode ray tube do?,A cathode ray tube can direct a stream of electrons utilizing electricity and magnetism.,cathode ray tube
+Microscopes,0,Generate: What is the most common application of the cathode ray tube?,The most common application of the cathode ray tube is the television.,television
+Microscopes,1,Generate: What is a use of cathode ray tube?,"A use for cathode ray tubes is looking at how the stream of electrons bounces off objects, much like SONAR underwater.",SONAR
+Microscopes,0,Generate: What revolutionized what it meant to look at small objects?,The invention of the electron microscope revolutionized what it meant to look at small objects.,electron microscope
+Microscopes,0,Generate: How many times did the magnification of the electron microscope increase?,"The level of magnification in the 19th century was 1500 times, and thanks to the electron microscope, that increased to 10,000,000 times.","10,000,000 times"
+Food-Storage,0,Generate: What can be one of the greatest preventatives in foodborne illness?,Correct food preparation and storage can be one of the greatest preventatives in foodborne illness.,food preparation and storage
+Food-Storage,1,Generate: How can we decrease food poisoning?,"If food is handled properly and prepared at appropriate temperatures, then the likelihood of contracting food poisoning becomes much less.",food
+Food-Storage,1,Generate: What happen if care isn’t taken at every stage of food handling and preparation?,"If care isn’t taken at every stage of food handling and preparation, then the risk of food contamination increases.",food contamination
+Food-Storage,1,Generate: When does proper storage of turkey begin?,Proper storage of turkey doesn’t begin after dinner is over; instead it begins when your family buys the bird at the store.,turkey
+Food-Storage,1,Generate: How do we store turkey until prepared?,Turkey must remain frozen and stored at a proper temperature until prepared.,frozen
+Food-Storage,1,Generate: When does meat cause a food borne illness?,"If a turkey’s storage temperature dips into the “danger zone,” then the probability of the meat causing a foodborne illness grows.",turkey
+Food-Storage,0,Generate: What is a danger zone for food?,The range of temperature between 5 degrees Celsius and 60 degrees Celsius is a danger zone for food.,between 5 degrees Celsius and 60 degrees Celsius
+Food-Storage,0,Generate: In what temperature range can bacteria grow and multiply at alarming rates?,"Within the 5-60 degree Celsius temperature range, bacteria can grow and multiply at alarming rates.",5-60 degree Celsius
+Food-Storage,1,Generate: Do food contain bacteria?,"Although all food contains a certain number of bacteria, the number of bacteria is generally too low to harm healthy humans.",too low
+Food-Storage,1,Generate: How many bacteria increase when food is left in the danger zone?,"When food is left in the danger zone, it is possible for bacteria to multiply every 10-30 minutes which means that food with only two bacterium cells can number in the millions in less than 8 hours.",10-30 minutes
+Food-Storage,0,Generate: How many bacteria would be enough to make a human sick?,Millions of bacteria would certainly be enough bacteria to make a human sick.,Millions
+Food-Storage,1,Generate: Can proper food storage and temperature guarantee the eradication of food borne illness?,"Although proper food storage and temperature won’t guarantee the eradication of foodborne illness, it certainly can aid in keeping the consumer healthy.",food storage and temperature
+Food-Storage,1,Generate: How do we store food that is removed from the original packaging?,Food that is removed from the original packaging must be stored in a clean air-tight container.,clean air-tight container
+Food-Storage,1,Generate: What can slows the rate at which microbes reproduce and reduce food borne illness?,"Refrigeration slows the rate at which microbes reproduce, making it more difficult for foodborne illness to be present.",slows
+Food-Storage,1,Generate: When can cross-contamination occur?,Cross-contamination can occur when liquid from raw meat is combined with food that is already prepared.,Cross-contamination
+Food-Storage,1,Generate: What is the temperature range in Fahrenheit considered as the danger zone?,The temperature between 40 degrees Fahrenheit and 140 degrees Fahrenheit is considered the “danger zone.”,the “danger zone.”
+Food-Storage,1,Generate: How long can food be left out at room temperature?,Food should not be left out at room temperature for more than two hours.,two hours
+Food-Storage,1,Generate: How long is the amount of time that food can safely remain in a hot vehicle?,"When loading groceries into a hot vehicle, the amount of time that food can safely remain inside the car is reduced to one hour.",one hour
+Food-Storage,1,Generate: How do we handle raw vegetables and fruits after cutting?,Foods such as raw vegetables and fruits must be covered with either plastic wrap or aluminum foil after cutting in order to limit the possibility of contamination.,plastic wrap or aluminum foil
+Prevention-of-Diseases,0,Generate: Disease prevention is important for maintaining what?,Disease prevention is important for maintaining a healthy society.,a healthy society
+Prevention-of-Diseases,2,Generate: How many ways are there to avoid spreading infectious diseases?,There are two main ways to avoid spreading infectious diseases: avoiding physical contact with the source of infection and vaccinations.,two
+Prevention-of-Diseases,0,Generate: What is one way diseases are transmitted?,Physical contact is one way diseases are transmitted.,Physical contact
+Prevention-of-Diseases,0,Generate: What is an important way to remove microorganisms?,Properly washing hands is an important way to remove microorganisms.,washing hands
+Prevention-of-Diseases,0,Generate: What is a strategy to prevent the transmission of infections?,Avoiding contact with those who are coughing and sneezing is a strategy to prevent the transmission of infections.,coughing and sneezing
+Prevention-of-Diseases,0,Generate: What should be avoided to avoid spreading infections?,"To avoid spreading infections, physical contact with infected bodily fluids should be avoided.",physical contact with infected bodily fluids
+Prevention-of-Diseases,1,Generate: What is another way diseases can be prevented?,Vaccinations are a way diseases may be prevented.,Vaccinations
+Prevention-of-Diseases,1,Generate: Can vaccines help prevent diseases?,Vaccines help prevent diseases such as polio and measles.,polio and measles
+Prevention-of-Diseases,0,Generate: What involves injecting a weak or dead form of the pathogen into a patient?,Vaccination involves injecting a weak or dead form of the pathogen into a patient.,Vaccination
+Prevention-of-Diseases,1,"Generate: When the human or animal body is vaccinated, what happens?","When vaccinated, the human or animal body recognizes the infection and makes antibodies to destroy it.",the human or animal body
+Prevention-of-Diseases,0,Generate: What will fight the infection if the body encounters the disease again after vaccination?,"If the body encounters the disease again after vaccination, the cells will fight the infection again.",the cells
+Prevention-of-Diseases,0,Generate: How are the chances of infection reduced?,The chances of infection are decreased by avoiding physical contact and by using vaccines.,avoiding physical contact
+SalmonellosisPoster,1,Generate: What is salmonellosis?,Salmonellosis is a bacterial infection.,Salmonellosis
+SalmonellosisPoster,1,Generate: What are the symptoms of salmonellosis?,"The symptoms of salmonellosis are vomiting, fever, and diarrhea.",salmonellosis
+SalmonellosisPoster,1,Generate: How do we treat or prevent salmonellosis?,The way to treat or prevent salmonellosis is with rest.,salmonellosis
+VirusReproductionPoster,1,Generate: How does a virus use the host cell’s functions?,"Once inside a cell, a virus uses the host cell's functions to make its own proteins and genetic material.",a virus
+VirusReproductionPoster,1,Generate: What does a virus use to make its own proteins and genetic material?,A virus uses the host cell's functions to make proteins and genetic material that are used to make a copy of the virus.,A virus

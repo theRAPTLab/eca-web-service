@@ -1,0 +1,748 @@
+{
+    "LogHistory": [
+        {
+            "Actor": "Player",
+            "Target": "Session",
+            "Id": "bd76cc9c-2a91-4791-b304-11fac1abcda1",
+            "UserId": "c1958d8c-d76d-4721-97e6-0f4c4abd5f50",
+            "Role": "",
+            "GroupdId": "00000000-0000-0000-0000-000000000000",
+            "AppName": "EngageAI-NLEPrototype",
+            "AppVersion": "0.0.79",
+            "PlatformType": "MacOSX",
+            "OperatingSystemFamily": "MacOSX",
+            "OperatingSystemVersion": "Mac OS X 10.16.0",
+            "ProcessorType": "Apple M1 Max",
+            "ProcessorCount": 10,
+            "DeviceUniqueId": "FCF9B4F2-8774-530B-8740-12DFE6CCFADC",
+            "DeviceModel": "MacBookPro18,2",
+            "SystemMemorySize": 32768,
+            "GraphicsMemorySize": 21845,
+            "GraphicsDeviceName": "Apple M1 Max",
+            "GraphicsShaderLevel": 50,
+            "BrowserUserAgent": "N/A",
+            "GameTime": 8.792165
+        },
+        {
+            "Actor": "Player",
+            "Target": "ProgressIndicator",
+            "Name": "ProgressIndicator",
+            "Type": "ViewModel",
+            "Duration": 0.295269,
+            "GameTime": 8.792165
+        },
+        {
+            "Actor": "Player",
+            "Target": "ProgressIndicator",
+            "Duration": 0.295603,
+            "GameTime": 8.792165
+        },
+        {
+            "Actor": "Player",
+            "Target": "SignInSentry",
+            "Name": "SignInSentry",
+            "Type": "ViewModel",
+            "Duration": 4.626715,
+            "GameTime": 8.792165
+        },
+        {
+            "Actor": "Player",
+            "Target": "SignInSentry",
+            "Duration": 4.779133,
+            "GameTime": 9.29147148
+        },
+        {
+            "Actor": "Player",
+            "Target": "Character",
+            "CharacterId": null,
+            "UserId": "c1958d8c-d76d-4721-97e6-0f4c4abd5f50",
+            "CharacterSelectionMethod": "Random",
+            "GameTime": 9.29147148
+        },
+        {
+            "Actor": "Player",
+            "Target": "ProgressIndicator",
+            "Name": "ProgressIndicator",
+            "Type": "ViewModel",
+            "GameTime": 9.29147148
+        },
+        {
+            "Actor": "Player",
+            "Target": "ProgressIndicator",
+            "GameTime": 9.29147148
+        },
+        {
+            "Actor": "Player",
+            "Target": "ActivityState",
+            "ActivityName": "FrontEnd",
+            "Id": null,
+            "ActivityId": "FrontEnd",
+            "GameTime": 9.29147148
+        },
+        {
+            "Actor": "Player",
+            "Target": "Activity",
+            "Name": "FrontEnd",
+            "ActivityId": "FrontEnd",
+            "IsComplete": false,
+            "StartDate": "2023-01-25T11:21:02.1389560-05:00",
+            "CreatedDate": "2023-01-25T11:21:02.1389560-05:00",
+            "TraceId": "764998b3-1382-4271-948b-e49f4a4bbee5",
+            "Duration": 9.123111,
+            "GameTime": 9.29147148
+        },
+        {
+            "Actor": "Player",
+            "Target": "Character",
+            "CharacterId": null,
+            "UserId": "c1958d8c-d76d-4721-97e6-0f4c4abd5f50",
+            "CharacterSelectionMethod": "Random",
+            "GameTime": 9.29147148
+        },
+        {
+            "Actor": "Player",
+            "Target": "CameraOperator",
+            "Name": "DefaultCameraOperator",
+            "Type": "ViewModel"
+        },
+        {
+            "Actor": "Player",
+            "Target": "DefaultCameraOperator"
+        },
+        {
+            "Actor": "Player",
+            "Target": "ProgressIndicator",
+            "Name": "ProgressIndicator",
+            "Type": "ViewModel"
+        },
+        {
+            "Actor": "Player",
+            "Target": "ProgressIndicator"
+        },
+        {
+            "Actor": "Player",
+            "Target": "CameraOperator",
+            "Name": "DefaultCameraOperator",
+            "Type": "ViewModel"
+        },
+        {
+            "Actor": "Player",
+            "Target": "DefaultCameraOperator"
+        },
+        {
+            "Actor": "Player",
+            "Target": "ProgressIndicator",
+            "Name": "ProgressIndicator",
+            "Type": "ViewModel"
+        },
+        {
+            "Actor": "Player",
+            "Target": "ProgressIndicator"
+        },
+        {
+            "Actor": "Player",
+            "Target": "ProgressIndicator",
+            "Name": "ProgressIndicator",
+            "Type": "ViewModel",
+            "Duration": 0.03022
+        },
+        {
+            "Actor": "Player",
+            "Target": "ProgressIndicator",
+            "Duration": 0.02855
+        },
+        {
+            "Actor": "Player",
+            "Target": "Activity",
+            "Id": "EngageNLE_pretest",
+            "Name": "EngageNLE_pretest",
+            "IsComplete": false,
+            "CreatedDate": "2023-01-25T11:21:12.4481170-05:00",
+            "TraceId": "ce96c739-5140-4051-95a6-a5a87c4377b4"
+        },
+        {
+            "Actor": "Player",
+            "Target": "Location",
+            "Name": "DefaultFrontEnd",
+            "Type": "ViewModel"
+        },
+        {
+            "Actor": "Player",
+            "Target": "CameraOperator",
+            "Name": "EstablishingShotCamera",
+            "Type": "ViewModel"
+        },
+        {
+            "Actor": "Player",
+            "Target": "EstablishingShotCamera"
+        },
+        {
+            "Actor": "Player",
+            "Target": "DefaultFrontEnd"
+        },
+        {
+            "Actor": "Player",
+            "Target": "ActivityState",
+            "ActivityName": "EngageNLE_pretest",
+            "Id": null,
+            "ActivityId": "EngageNLE_pretest"
+        },
+        {
+            "Actor": "FirstPerson",
+            "Target": "Location",
+            "From": null,
+            "To": "DefaultFrontEnd",
+            "GameTime": 0.0
+        },
+        {
+            "Actor": "Player",
+            "Target": "Character",
+            "Name": "FirstPerson",
+            "Type": "ViewModel",
+            "GameTime": 0.0
+        },
+        {
+            "Actor": "Player",
+            "Target": "FirstPerson",
+            "GameTime": 0.0
+        },
+        {
+            "Actor": "Player",
+            "Target": "Workbook",
+            "Title": "Select Student",
+            "Id": "1q2xKvyKqbuym420sbfjLI4VrB22B4XwUIUFBmVGtQAc",
+            "LastModified": "2023-01-06T12:51:29.5400577-05:00",
+            "PageCount": 4,
+            "IsQuiz": true,
+            "GameTime": 0.0
+        },
+        {
+            "Actor": "Player",
+            "Target": "WorkbookPage",
+            "Title": "Select Student",
+            "Id": null,
+            "ItemCount": 2,
+            "GameTime": 0.0
+        },
+        {
+            "Actor": "Player",
+            "Target": "WorkbookPage",
+            "Title": "Select Student",
+            "Id": null,
+            "ItemCount": 2,
+            "Duration": 0.056905,
+            "GameTime": 0.0
+        },
+        {
+            "Actor": "Player",
+            "Target": "WorkbookPage",
+            "Title": "Select Student",
+            "Id": null,
+            "ItemCount": 2,
+            "GameTime": 0.0
+        },
+        {
+            "Actor": "Player",
+            "Target": "WorkbookPage",
+            "Title": "Select Student",
+            "Id": null,
+            "ItemCount": 2,
+            "Duration": 0.0076289999999999995,
+            "GameTime": 0.0
+        },
+        {
+            "Actor": "Player",
+            "Target": "WorkbookPage",
+            "Title": "Select Student",
+            "Id": null,
+            "ItemCount": 2,
+            "GameTime": 0.0
+        },
+        {
+            "Actor": "Player",
+            "Target": "Workbook",
+            "Name": "Workbook",
+            "Type": "ViewModel",
+            "GameTime": 0.0
+        },
+        {
+            "Actor": "Player",
+            "Target": "WorkbookPage",
+            "Title": "Select Student",
+            "Id": null,
+            "ItemCount": 2,
+            "Duration": 0.055526,
+            "GameTime": 0.0
+        },
+        {
+            "Actor": "Player",
+            "Target": "WorkbookPage",
+            "Title": "Select Student",
+            "Id": null,
+            "ItemCount": 2,
+            "GameTime": 0.0
+        },
+        {
+            "Actor": "Player",
+            "Target": "WorkbookPage",
+            "Title": "",
+            "Id": "135748845",
+            "ItemCount": 2,
+            "GameTime": 0.0
+        },
+        {
+            "Actor": "Player",
+            "Target": "WorkbookPage",
+            "Title": "Untitled Section",
+            "Id": "1448052301",
+            "ItemCount": 2,
+            "GameTime": 0.0
+        },
+        {
+            "Actor": "Player",
+            "Target": "WorkbookPage",
+            "Title": "Untitled Section",
+            "Id": "1786109615",
+            "ItemCount": 1,
+            "GameTime": 0.0
+        },
+        {
+            "Actor": "Player",
+            "Target": "ProgressIndicator",
+            "Name": "ProgressIndicator",
+            "Type": "ViewModel",
+            "Duration": 0.494129,
+            "GameTime": 0.0
+        },
+        {
+            "Actor": "Player",
+            "Target": "ProgressIndicator",
+            "Duration": 0.492973,
+            "GameTime": 0.0
+        },
+        {
+            "Actor": "Player",
+            "Target": "Alert",
+            "Name": "Alert",
+            "Type": "ViewModel",
+            "GameTime": 0.0
+        },
+        {
+            "Actor": "Player",
+            "Target": "Avatar",
+            "CharacterId": "Gustav",
+            "GameTime": 1.71256351
+        },
+        {
+            "Actor": "Player",
+            "Target": "ValidatedPage",
+            "PageNumber": 1,
+            "GameTime": 2.72923088
+        },
+        {
+            "Actor": "Player",
+            "Target": "ValidatedPage",
+            "PageNumber": 2,
+            "GameTime": 2.72923088
+        },
+        {
+            "Actor": "Player",
+            "Target": "ValidatedPage",
+            "PageNumber": 3,
+            "GameTime": 2.72923088
+        },
+        {
+            "Actor": "Player",
+            "Target": "Answer",
+            "IsCorrect": "NoAnswerKey",
+            "IsAgreementRequired": false,
+            "HasAgreement": true,
+            "AttemptCount": 1,
+            "Question": "Please select a student",
+            "OptionalFieldName": "",
+            "Choice": "Vincent",
+            "Id": "EngageNLE_pretest-834027873",
+            "GameTime": 2.72923088
+        },
+        {
+            "Actor": "Player",
+            "Target": "ValidatedPage",
+            "PageNumber": 4,
+            "GameTime": 2.72923088
+        },
+        {
+            "Actor": "Player",
+            "Target": "Workbook",
+            "Type": 0,
+            "IsComplete": true,
+            "IsAllCorrect": true,
+            "ActivityName": "EngageNLE_pretest",
+            "HasAgreement": true,
+            "UserId": "c1958d8c-d76d-4721-97e6-0f4c4abd5f50",
+            "Title": "Select Student",
+            "WorkbookId": "1q2xKvyKqbuym420sbfjLI4VrB22B4XwUIUFBmVGtQAc",
+            "LastModified": "2023-01-06T12:51:29.5400577-05:00",
+            "PageCount": 4,
+            "IsQuiz": true,
+            "Score": 0.0,
+            "MaxPossibleScore": 0.0,
+            "Please select a student (834027873)": "Vincent",
+            "834027873-IsCorrect": false,
+            "IsSubmitted": true,
+            "Duration": 2.7880339999999997,
+            "GameTime": 2.72923088
+        },
+        {
+            "Actor": "Player",
+            "Target": "Workbook",
+            "Name": "Workbook",
+            "Type": "ViewModel",
+            "Duration": 2.71124,
+            "GameTime": 2.72923088
+        },
+        {
+            "Actor": "Player",
+            "Target": "ProgressIndicator",
+            "Name": "ProgressIndicator",
+            "Type": "ViewModel",
+            "GameTime": 2.72923088
+        },
+        {
+            "Actor": "Player",
+            "Target": "ProgressIndicator",
+            "GameTime": 2.72923088
+        },
+        {
+            "Actor": "Player",
+            "Target": "ActivityState",
+            "ActivityName": "EngageNLE_pretest",
+            "Id": "47568479-bd60-4c2b-abf6-621a02dccc3e",
+            "ActivityId": "EngageNLE_pretest",
+            "GameTime": 2.72923088
+        },
+        {
+            "Actor": "Player",
+            "Target": "ProgressIndicator",
+            "Name": "ProgressIndicator",
+            "Type": "ViewModel",
+            "Duration": 0.025151,
+            "GameTime": 2.72923088
+        },
+        {
+            "Actor": "Player",
+            "Target": "ProgressIndicator",
+            "Duration": 0.023257,
+            "GameTime": 2.72923088
+        },
+        {
+            "Actor": "Player",
+            "Target": "ProgressIndicator",
+            "Name": "ProgressIndicator",
+            "Type": "ViewModel",
+            "GameTime": 2.72923088
+        },
+        {
+            "Actor": "Player",
+            "Target": "ProgressIndicator",
+            "GameTime": 2.72923088
+        },
+        {
+            "Actor": "Player",
+            "Target": "ProgressIndicator",
+            "Name": "ProgressIndicator",
+            "Type": "ViewModel",
+            "Duration": 0.024724,
+            "GameTime": 2.72923088
+        },
+        {
+            "Actor": "Player",
+            "Target": "ProgressIndicator",
+            "Duration": 0.023104,
+            "GameTime": 2.72923088
+        },
+        {
+            "Actor": "Player",
+            "Target": "ContinueToNextActivity",
+            "UserId": "c1958d8c-d76d-4721-97e6-0f4c4abd5f50",
+            "GameTime": 2.72923088
+        },
+        {
+            "Actor": "Player",
+            "Target": "ProgressIndicator",
+            "Name": "ProgressIndicator",
+            "Type": "ViewModel",
+            "GameTime": 2.72923088
+        },
+        {
+            "Actor": "Player",
+            "Target": "ProgressIndicator",
+            "GameTime": 2.72923088
+        },
+        {
+            "Actor": "Player",
+            "Target": "ActivityState",
+            "ActivityName": "EngageNLE_pretest",
+            "Id": "47568479-bd60-4c2b-abf6-621a02dccc3e",
+            "ActivityId": "EngageNLE_pretest",
+            "GameTime": 2.72923088
+        },
+        {
+            "Actor": "Player",
+            "Target": "Activity",
+            "Name": "EngageNLE_pretest",
+            "ActivityId": "EngageNLE_pretest",
+            "IsComplete": true,
+            "StartDate": "2023-01-25T11:21:12.4481170-05:00",
+            "CreatedDate": "2023-01-25T11:21:12.4481170-05:00",
+            "TraceId": "ce96c739-5140-4051-95a6-a5a87c4377b4",
+            "Duration": 3.0994789999999997,
+            "GameTime": 2.72923088
+        },
+        {
+            "Actor": "Player",
+            "Target": "CameraOperator",
+            "Name": "ThirdPersonCameraOperator",
+            "Type": "ViewModel"
+        },
+        {
+            "Actor": "Player",
+            "Target": "ThirdPersonCameraOperator"
+        },
+        {
+            "Actor": "Player",
+            "Target": "ProgressIndicator",
+            "Name": "ProgressIndicator",
+            "Type": "ViewModel"
+        },
+        {
+            "Actor": "Player",
+            "Target": "ProgressIndicator"
+        },
+        {
+            "Actor": "Player",
+            "Target": "CameraOperator",
+            "Name": "ThirdPersonCameraOperator",
+            "Type": "ViewModel"
+        },
+        {
+            "Actor": "Player",
+            "Target": "ThirdPersonCameraOperator"
+        },
+        {
+            "Actor": "Player",
+            "Target": "ProgressIndicator",
+            "Name": "ProgressIndicator",
+            "Type": "ViewModel"
+        },
+        {
+            "Actor": "Player",
+            "Target": "ProgressIndicator"
+        },
+        {
+            "Actor": "Player",
+            "Target": "ProgressIndicator",
+            "Name": "ProgressIndicator",
+            "Type": "ViewModel",
+            "Duration": 0.030667
+        },
+        {
+            "Actor": "Player",
+            "Target": "ProgressIndicator",
+            "Duration": 0.029057
+        },
+        {
+            "Actor": "Player",
+            "Target": "ActivityHUD",
+            "Name": "ActivityHUD",
+            "Type": "ViewModel"
+        },
+        {
+            "Actor": "Player",
+            "Target": "ActivityHUD"
+        },
+        {
+            "Actor": "Player",
+            "Target": "VirtualGamepadHUD",
+            "Name": "VirtualGamepadHUD",
+            "Type": "ViewModel"
+        },
+        {
+            "Actor": "Player",
+            "Target": "VirtualGamepadHUD"
+        },
+        {
+            "Actor": "Player",
+            "Target": "DiagnosticsHUD",
+            "Name": "DiagnosticsHUD",
+            "Type": "ViewModel"
+        },
+        {
+            "Actor": "Player",
+            "Target": "DiagnosticsHUD"
+        },
+        {
+            "Actor": "Player",
+            "Target": "WeatherHud",
+            "Name": "WeatherHud",
+            "Type": "ViewModel"
+        },
+        {
+            "Actor": "Player",
+            "Target": "WeatherHud"
+        },
+        {
+            "Actor": "Player",
+            "Target": "Activity",
+            "Id": "NarrativeFlow",
+            "Name": "NarrativeFlow",
+            "IsComplete": false,
+            "CreatedDate": "2023-01-25T11:21:15.7930760-05:00",
+            "TraceId": "10fd4d79-5ab4-49b4-ae8a-18741156c22d"
+        },
+        {
+            "Actor": "System",
+            "Target": "NarrativeDirector",
+            "IsNewGame": true
+        },
+        {
+            "Actor": "Player",
+            "Target": "ActivityState",
+            "ActivityName": "NarrativeFlow",
+            "Id": null,
+            "ActivityId": "NarrativeFlow"
+        },
+        {
+            "Actor": "Player",
+            "Target": "Character",
+            "Name": "Gustav",
+            "Type": "ViewModel",
+            "GameTime": 0.0
+        },
+        {
+            "Actor": "Player",
+            "Target": "Gustav",
+            "GameTime": 0.0
+        },
+        {
+            "Actor": "System",
+            "Target": "NarrativeDirector",
+            "IsNewGame": true,
+            "GameTime": 0.0
+        },
+        {
+            "Actor": "Player",
+            "Target": "Location",
+            "Name": "CampCILI",
+            "Type": "ViewModel",
+            "GameTime": 0.0
+        },
+        {
+            "Actor": "Player",
+            "Target": "CameraOperator",
+            "Name": "EstablishingShotCamera",
+            "Type": "ViewModel",
+            "GameTime": 0.3571701
+        },
+        {
+            "Actor": "Player",
+            "Target": "EstablishingShotCamera",
+            "GameTime": 0.3571701
+        },
+        {
+            "Actor": "Player",
+            "Target": "DoorProp",
+            "Name": "DoorOpenOnly",
+            "Type": "ViewModel",
+            "GameTime": 0.3571701
+        },
+        {
+            "Actor": "Player",
+            "Target": "DoorOpenOnly",
+            "GameTime": 0.3571701
+        },
+        {
+            "Actor": "Player",
+            "Target": "DoorProp",
+            "Name": "DoorOpenOnly",
+            "Type": "ViewModel",
+            "GameTime": 0.3571701
+        },
+        {
+            "Actor": "Player",
+            "Target": "DoorOpenOnly",
+            "GameTime": 0.3571701
+        },
+        {
+            "Actor": "Player",
+            "Target": "DoorProp",
+            "Name": "DoorDefaultFridge",
+            "Type": "ViewModel",
+            "GameTime": 0.3571701
+        },
+        {
+            "Actor": "Player",
+            "Target": "DoorDefaultFridge",
+            "GameTime": 0.3571701
+        },
+        {
+            "Actor": "Player",
+            "Target": "DoorProp",
+            "Name": "DoorOpenOnly",
+            "Type": "ViewModel",
+            "GameTime": 0.3571701
+        },
+        {
+            "Actor": "Player",
+            "Target": "DoorOpenOnly",
+            "GameTime": 0.3571701
+        },
+        {
+            "Actor": "Player",
+            "Target": "CampCILI",
+            "GameTime": 0.3571701
+        },
+        {
+            "Actor": "Player",
+            "Target": "ProgressIndicator",
+            "Name": "ProgressIndicator",
+            "Type": "ViewModel",
+            "Duration": 2.294845,
+            "GameTime": 0.3571701
+        },
+        {
+            "Actor": "Player",
+            "Target": "ProgressIndicator",
+            "Duration": 2.295719,
+            "GameTime": 0.3571701
+        },
+        {
+            "Actor": "System",
+            "Target": "NarrativeScene",
+            "UserId": "c1958d8c-d76d-4721-97e6-0f4c4abd5f50",
+            "SceneId": "1RGJ2W3hedwoq6q89GsR7ToBMBED0HfAwSZCJAULFy2Y",
+            "SceneName": "VikramNFSettings",
+            "TotalStarts": 1,
+            "GameTime": 0.3571701
+        },
+        {
+            "Actor": "Player",
+            "Target": "Interaction",
+            "UserId": "c1958d8c-d76d-4721-97e6-0f4c4abd5f50",
+            "Name": null,
+            "Type": "InkStoryInteraction",
+            "GameTime": 0.3571701
+        }
+    ],
+    "UtteranceHistory": [{"AutoContinue": false,
+    "Choices": [],
+    "DialogueType": 6,
+    "IsContinueAvailable": true,
+    "IsImmediateReveal": false,
+    "IsNote": false,
+    "IsOutgoing": false,
+    "ListenerName": "Elise",
+    "NoteTitle": null,
+    "SpeakerName": "Player",
+    "TimerInSeconds": 0,
+    "Utterance": "Enter Text..."}]
+}
