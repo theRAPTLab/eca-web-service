@@ -86,16 +86,24 @@ def get_utterance_by_type(ecatype):
     app.logger.info(f"ECA:A: {chosen_utterance}")
     return chosen_utterance
 
+# Only call for the ECA
 @app.route("/GetECAResponse", methods =['POST', 'PUT'])
 def get_eca_response():
-    json_obj = request.json
+    ## TEST ADDING CONTEXT
+    context_json_obj = json.dumps({'Context' : 'In the parking lot.'})
+    context_dict = json.loads(context_json_obj)
+    request_dict = request.json
+    context_dict.update(request_dict)
+    ## END TEST
+    json_obj = context_dict
     app.logger.info(f"ECA:Q: {json_obj}")
     if 'ConfidenceThreshold' in json_obj:
         threshold = json_obj['ConfidenceThreshold']
     else:
         threshold = 0.6
     chosen_utterance = random.choice(
-        get_next_utterance(json_obj['Utterance'],
+        ## Notice that Context is added to the Utterance
+        get_next_utterance(json_obj['Context'] + json_obj['Utterance'],
                            eca_type=json_obj['ECAType'],
                            threshold=threshold)
                            )
