@@ -86,6 +86,7 @@ def get_utterance_by_type(ecatype):
     app.logger.info(f"ECA:A: {chosen_utterance}")
     return chosen_utterance
 
+# Only call for the ECA
 @app.route("/GetECAResponse", methods =['POST', 'PUT'])
 def get_eca_response():
     json_obj = request.json
@@ -95,7 +96,8 @@ def get_eca_response():
     else:
         threshold = 0.6
     chosen_utterance = random.choice(
-        get_next_utterance(json_obj['Utterance'],
+        ## Notice that Context is added to the Utterance
+        get_next_utterance(json_obj['Context'] + json_obj['Utterance'],
                            eca_type=json_obj['ECAType'],
                            threshold=threshold)
                            )

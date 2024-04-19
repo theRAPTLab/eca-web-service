@@ -1,7 +1,11 @@
-*model*/
+dialog_agent/model/
 # Ignore all files in log
 log/*
 .venv
 
 # But keep the folder so it doesn't need to be added back manually every time
 !log/.gitkeep
+
+# Ignore cached bytecode
+*/__pycache__/*
+
