@@ -6,6 +6,9 @@
 </head>
 <body>
     <form id="myForm">
+        <label for="context">Context:</label>
+        <textarea id="context" name="Context" rows="4" cols="50"></textarea><br><br>
+        
         <label for="utterance">Question:</label>
         <textarea id="utterance" name="Utterance" rows="4" cols="50"></textarea><br><br>
 
@@ -38,11 +41,14 @@
                 event.preventDefault();
                 loading.style.display = "inline"; // Show loading text
 
+
+                const context = document.getElementById("context").value;
                 const utterance = document.getElementById("utterance").value;
                 const ecatype = document.getElementById("ecatype").value;
                 const confidenceThreshold = parseFloat(document.getElementById("confidenceThreshold").value);
         
                 const payload = {
+                    "Context": context,
                     "Utterance": utterance,
                     "ECAType": ecatype,
                     "ConfidenceThreshold": confidenceThreshold
