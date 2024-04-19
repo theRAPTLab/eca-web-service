@@ -7,5 +7,5 @@ log/*
 !log/.gitkeep
 
 # Ignore cached bytecode
-**__pycache__/*
+*/__pycache__/*
 
